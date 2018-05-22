@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Mon May 21 12:23:41 +0000 2018",
+		"id": 998539828437438500,
+		"id_str": "998539828437438464",
+		"text": "“Go hard or go home. I believe that if you want to achieve something, you have to commit your all to it. Going into… https://t.co/NQPAVGXlam",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQPAVGXlam",
+					"expanded_url": "https://twitter.com/i/web/status/998539828437438464",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/8w7xJU5n9n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8w7xJU5n9n",
+							"expanded_url": "http://www.sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5880,
+			"friends_count": 5180,
+			"listed_count": 38,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6061,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 21 12:09:20 +0000 2018",
+		"id": 998536216998957000,
+		"id_str": "998536216998957058",
+		"text": "RT @drrobbell: #movingforward #temporary #mentalattitude https://t.co/mkNyfonQy0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "movingforward",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"text": "temporary",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"text": "mentalattitude",
+					"indices": [
+						41,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drrobbell",
+					"name": "Dr. Rob Bell",
+					"id": 215506336,
+					"id_str": "215506336",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 836958074493612000,
+					"id_str": "836958074493612033",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/C5147zIWMAEI1ru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5147zIWMAEI1ru.jpg",
+					"url": "https://t.co/mkNyfonQy0",
+					"display_url": "pic.twitter.com/mkNyfonQy0",
+					"expanded_url": "https://twitter.com/drrobbell/status/836958076343304199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 357,
+							"h": 507,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 357,
+							"h": 507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 357,
+							"h": 507,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836958076343304200,
+					"source_status_id_str": "836958076343304199",
+					"source_user_id": 215506336,
+					"source_user_id_str": "215506336"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 836958074493612000,
+					"id_str": "836958074493612033",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/C5147zIWMAEI1ru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5147zIWMAEI1ru.jpg",
+					"url": "https://t.co/mkNyfonQy0",
+					"display_url": "pic.twitter.com/mkNyfonQy0",
+					"expanded_url": "https://twitter.com/drrobbell/status/836958076343304199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 357,
+							"h": 507,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 357,
+							"h": 507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 357,
+							"h": 507,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836958076343304200,
+					"source_status_id_str": "836958076343304199",
+					"source_user_id": 215506336,
+					"source_user_id_str": "215506336"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/8w7xJU5n9n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8w7xJU5n9n",
+							"expanded_url": "http://www.sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5880,
+			"friends_count": 5180,
+			"listed_count": 38,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6061,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 01 15:15:29 +0000 2017",
+			"id": 836958076343304200,
+			"id_str": "836958076343304199",
+			"text": "#movingforward #temporary #mentalattitude https://t.co/mkNyfonQy0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "movingforward",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"text": "temporary",
+						"indices": [
+							15,
+							25
+						]
+					},
+					{
+						"text": "mentalattitude",
+						"indices": [
+							26,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 836958074493612000,
+						"id_str": "836958074493612033",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/C5147zIWMAEI1ru.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5147zIWMAEI1ru.jpg",
+						"url": "https://t.co/mkNyfonQy0",
+						"display_url": "pic.twitter.com/mkNyfonQy0",
+						"expanded_url": "https://twitter.com/drrobbell/status/836958076343304199/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 357,
+								"h": 507,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 357,
+								"h": 507,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 357,
+								"h": 507,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 836958074493612000,
+						"id_str": "836958074493612033",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/C5147zIWMAEI1ru.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5147zIWMAEI1ru.jpg",
+						"url": "https://t.co/mkNyfonQy0",
+						"display_url": "pic.twitter.com/mkNyfonQy0",
+						"expanded_url": "https://twitter.com/drrobbell/status/836958076343304199/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 357,
+								"h": 507,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 357,
+								"h": 507,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 357,
+								"h": 507,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 215506336,
+				"id_str": "215506336",
+				"name": "Dr. Rob Bell",
+				"screen_name": "drrobbell",
+				"location": "Indianapolis, IN",
+				"description": "Sport Psychology Coach | Author of 6 Books on #Mentaltoughness | The BEST Mental Toughness Quotes That Make You BETTER https://t.co/QvF6iXm1BD |",
+				"url": "https://t.co/43oeJuFhgV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/43oeJuFhgV",
+								"expanded_url": "http://www.drrobbell.com",
+								"display_url": "drrobbell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QvF6iXm1BD",
+								"expanded_url": "http://bit.ly/mtquotesbook",
+								"display_url": "bit.ly/mtquotesbook",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9917,
+				"friends_count": 971,
+				"listed_count": 188,
+				"created_at": "Sun Nov 14 03:51:19 +0000 2010",
+				"favourites_count": 24409,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46684,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5E5540",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810979748952375296/m4w1e3Z5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810979748952375296/m4w1e3Z5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/215506336/1508278142",
+				"profile_link_color": "F0960E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "AEBFB5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 12,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun May 20 14:00:36 +0000 2018",
 		"id": 998201828318859300,
 		"id_str": "998201828318859266",
