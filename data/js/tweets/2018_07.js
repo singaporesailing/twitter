@@ -1,6 +1,1225 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 14 03:48:43 +0000 2018",
+		"id": 1017979176102449200,
+		"id_str": "1017979176102449153",
+		"text": "RT @youthworlds: 'The Bottom Line' is a temporary chalk mural celebrating this year's #YouthWorlds 💚\n\nParticipants and guests will be colou…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YouthWorlds",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youthworlds",
+					"name": "Youth Sailing Worlds",
+					"id": 40852388,
+					"id_str": "40852388",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6373,
+			"friends_count": 4260,
+			"listed_count": 38,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 12 20:05:27 +0000 2018",
+			"id": 1017500205007196200,
+			"id_str": "1017500205007196162",
+			"text": "'The Bottom Line' is a temporary chalk mural celebrating this year's #YouthWorlds 💚\n\nParticipants and guests will b… https://t.co/A1w88fIuRN",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "YouthWorlds",
+						"indices": [
+							69,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/A1w88fIuRN",
+						"expanded_url": "https://twitter.com/i/web/status/1017500205007196162",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40852388,
+				"id_str": "40852388",
+				"name": "Youth Sailing Worlds",
+				"screen_name": "youthworlds",
+				"location": "Corpus Christi, TX",
+				"description": "🌎⛵️The Youth Sailing World Championships are the world’s leading youth sailing event.",
+				"url": "https://t.co/PXUUCNeODS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PXUUCNeODS",
+								"expanded_url": "http://www.facebook.com/youthworlds",
+								"display_url": "facebook.com/youthworlds",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6322,
+				"friends_count": 26,
+				"listed_count": 74,
+				"created_at": "Mon May 18 10:59:20 +0000 2009",
+				"favourites_count": 292,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3267,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "004FA3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968443595844878337/4575SosC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968443595844878337/4575SosC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40852388/1515489408",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "004FA3",
+				"profile_sidebar_fill_color": "8E8E91",
+				"profile_text_color": "004FA3",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 14 03:48:36 +0000 2018",
+		"id": 1017979149267267600,
+		"id_str": "1017979149267267584",
+		"text": "RT @11thHourRacing: Great article from @janleethiem on @TriplePundit showing the growing interest in #Sustainability in business and using…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sustainability",
+					"indices": [
+						101,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "11thHourRacing",
+					"name": "11th Hour Racing",
+					"id": 1134610429,
+					"id_str": "1134610429",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "janleethiem",
+					"name": "Jan Lee",
+					"id": 80378349,
+					"id_str": "80378349",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "TriplePundit",
+					"name": "TriplePundit.com",
+					"id": 18290719,
+					"id_str": "18290719",
+					"indices": [
+						55,
+						68
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6373,
+			"friends_count": 4260,
+			"listed_count": 38,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 13 15:15:07 +0000 2018",
+			"id": 1017789526767493100,
+			"id_str": "1017789526767493120",
+			"text": "Great article from @janleethiem on @TriplePundit showing the growing interest in #Sustainability in business and us… https://t.co/Q15JAeUNK1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Sustainability",
+						"indices": [
+							81,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "janleethiem",
+						"name": "Jan Lee",
+						"id": 80378349,
+						"id_str": "80378349",
+						"indices": [
+							19,
+							31
+						]
+					},
+					{
+						"screen_name": "TriplePundit",
+						"name": "TriplePundit.com",
+						"id": 18290719,
+						"id_str": "18290719",
+						"indices": [
+							35,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Q15JAeUNK1",
+						"expanded_url": "https://twitter.com/i/web/status/1017789526767493120",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1134610429,
+				"id_str": "1134610429",
+				"name": "11th Hour Racing",
+				"screen_name": "11thHourRacing",
+				"location": "Newport, Rhode Island",
+				"description": "Creating partnerships with the sailing & marine communities to advance solutions and practices that restore the health of our oceans, one degree at a time.",
+				"url": "http://t.co/7JGDPQRu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7JGDPQRu",
+								"expanded_url": "http://11thhourracing.org",
+								"display_url": "11thhourracing.org",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1427,
+				"friends_count": 1312,
+				"listed_count": 28,
+				"created_at": "Wed Jan 30 16:51:57 +0000 2013",
+				"favourites_count": 1018,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1078,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "101326",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960952541554069506/1EGSmDyo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960952541554069506/1EGSmDyo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134610429/1517936674",
+				"profile_link_color": "314061",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6d50765616ee2e60",
+				"url": "https://api.twitter.com/1.1/geo/id/6d50765616ee2e60.json",
+				"place_type": "admin",
+				"name": "Rhode Island",
+				"full_name": "Rhode Island, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.907259,
+								41.095834
+							],
+							[
+								-71.088567,
+								41.095834
+							],
+							[
+								-71.088567,
+								42.018808
+							],
+							[
+								-71.907259,
+								42.018808
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 14 01:29:09 +0000 2018",
+		"id": 1017944055060287500,
+		"id_str": "1017944055060287489",
+		"text": "Volvo Ocean Race: The Ultimate Video - Not to be Missed https://t.co/eIHR3bKHdw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eIHR3bKHdw",
+					"expanded_url": "https://buff.ly/2mihUQi",
+					"display_url": "buff.ly/2mihUQi",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6373,
+			"friends_count": 4260,
+			"listed_count": 38,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 14 00:09:01 +0000 2018",
+		"id": 1017923886166499300,
+		"id_str": "1017923886166499328",
+		"text": "ADOPTING AN OLYMPIAN'S MINDSET https://t.co/NReRF4WhcB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NReRF4WhcB",
+					"expanded_url": "https://buff.ly/2FZ5Qvu",
+					"display_url": "buff.ly/2FZ5Qvu",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6373,
+			"friends_count": 4260,
+			"listed_count": 38,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 13 18:56:24 +0000 2018",
+		"id": 1017845214336016400,
+		"id_str": "1017845214336016385",
+		"text": "RT @ctswim00: 10 Socio-Emotional Benefits of Sailing https://t.co/T9eEjgpHfB via @singaporesail @ljhsurf_13 #sailing",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sailing",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ctswim00",
+					"name": "Caitlin Thomas-Henkel",
+					"id": 199492522,
+					"id_str": "199492522",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						81,
+						95
+					]
+				},
+				{
+					"screen_name": "ljhsurf_13",
+					"name": "LennyH",
+					"id": 2329727268,
+					"id_str": "2329727268",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T9eEjgpHfB",
+					"expanded_url": "https://sailing.org.sg/10-socio-emotional-benefits-sailing/",
+					"display_url": "sailing.org.sg/10-socio-emoti…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6373,
+			"friends_count": 4260,
+			"listed_count": 38,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 03 19:42:50 +0000 2018",
+			"id": 1014233019438239700,
+			"id_str": "1014233019438239744",
+			"text": "10 Socio-Emotional Benefits of Sailing https://t.co/T9eEjgpHfB via @singaporesail @ljhsurf_13 #sailing",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sailing",
+						"indices": [
+							94,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SingaporeSail",
+						"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+						"id": 906430548641439700,
+						"id_str": "906430548641439744",
+						"indices": [
+							67,
+							81
+						]
+					},
+					{
+						"screen_name": "ljhsurf_13",
+						"name": "LennyH",
+						"id": 2329727268,
+						"id_str": "2329727268",
+						"indices": [
+							82,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/T9eEjgpHfB",
+						"expanded_url": "https://sailing.org.sg/10-socio-emotional-benefits-sailing/",
+						"display_url": "sailing.org.sg/10-socio-emoti…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 199492522,
+				"id_str": "199492522",
+				"name": "Caitlin Thomas-Henkel",
+				"screen_name": "ctswim00",
+				"location": "Jersey Shore, NJ",
+				"description": "Senior Program Officer @chcshealth New Englander • Social worker-Medicaid policy change agent #healthcare #complexcare #behavioralhealth #SDOH My own tweets",
+				"url": "https://t.co/bZqz38lihp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bZqz38lihp",
+								"expanded_url": "http://chcs.org",
+								"display_url": "chcs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 287,
+				"friends_count": 976,
+				"listed_count": 7,
+				"created_at": "Thu Oct 07 00:40:30 +0000 2010",
+				"favourites_count": 670,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1893,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/896842885571719171/0gUKV6l0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/896842885571719171/0gUKV6l0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/199492522/1487599034",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 13 18:55:34 +0000 2018",
+		"id": 1017845005900177400,
+		"id_str": "1017845005900177409",
+		"text": "@danielbatuwa @SailorsforSea @worldsailing Thank you!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielbatuwa",
+					"name": "Daneal 🇺🇬 Batuwa 🇺🇬",
+					"id": 1350343548,
+					"id_str": "1350343548",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SailorsforSea",
+					"name": "Sailors for the Sea",
+					"id": 15751780,
+					"id_str": "15751780",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "worldsailing",
+					"name": "World Sailing 🌎⛵️",
+					"id": 39973326,
+					"id_str": "39973326",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1017823752091000800,
+		"in_reply_to_status_id_str": "1017823752091000842",
+		"in_reply_to_user_id": 1350343548,
+		"in_reply_to_user_id_str": "1350343548",
+		"in_reply_to_screen_name": "danielbatuwa",
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6373,
+			"friends_count": 4260,
+			"listed_count": 38,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 13 12:23:43 +0000 2018",
+		"id": 1017746392767516700,
+		"id_str": "1017746392767516672",
+		"text": "And it begins! The Laser 4.7 World Championships, that is ⛵️ All the best sailors 🇸🇬💪 #Laser4.7Worlds #SailforSG… https://t.co/n6OBuN3yss",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Laser4",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "SailforSG",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n6OBuN3yss",
+					"expanded_url": "https://twitter.com/i/web/status/1017746392767516672",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6373,
+			"friends_count": 4260,
+			"listed_count": 38,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 13 05:46:06 +0000 2018",
 		"id": 1017646327948349400,
 		"id_str": "1017646327948349442",
