@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 15 23:26:28 +0000 2018",
+		"id": 1018637955714334700,
+		"id_str": "1018637955714334720",
+		"text": "RT @youthworlds: Let's make this year's #YouthWorlds eco-friendly with these 5️⃣ simple steps 💚\n\nPlenty to consider 🤔 for the next time you…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YouthWorlds",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youthworlds",
+					"name": "Youth Sailing Worlds",
+					"id": 40852388,
+					"id_str": "40852388",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6403,
+			"friends_count": 4531,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 15 21:35:01 +0000 2018",
+			"id": 1018609906302087200,
+			"id_str": "1018609906302087168",
+			"text": "Let's make this year's #YouthWorlds eco-friendly with these 5️⃣ simple steps 💚\n\nPlenty to consider 🤔 for the next t… https://t.co/T2EoR93S1s",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "YouthWorlds",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/T2EoR93S1s",
+						"expanded_url": "https://twitter.com/i/web/status/1018609906302087168",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40852388,
+				"id_str": "40852388",
+				"name": "Youth Sailing Worlds",
+				"screen_name": "youthworlds",
+				"location": "Corpus Christi, TX",
+				"description": "🌎⛵️ The Youth Sailing World Championships are the world’s leading youth sailing event. #YSWC18 / #YouthWorlds",
+				"url": "https://t.co/PXUUCNeODS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PXUUCNeODS",
+								"expanded_url": "http://www.facebook.com/youthworlds",
+								"display_url": "facebook.com/youthworlds",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6375,
+				"friends_count": 26,
+				"listed_count": 74,
+				"created_at": "Mon May 18 10:59:20 +0000 2009",
+				"favourites_count": 301,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3298,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "004FA3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968443595844878337/4575SosC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968443595844878337/4575SosC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40852388/1531583117",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "004FA3",
+				"profile_sidebar_fill_color": "8E8E91",
+				"profile_text_color": "004FA3",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 14,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 15 12:23:45 +0000 2018",
+		"id": 1018471176019021800,
+		"id_str": "1018471176019021829",
+		"text": "Going places with the Polar A370 🌏⛵️💨🏄‍♀️ #throwback⠀\n⠀\n@polarsingapore #polarSG #polarGlobal #polar #SailforSG… https://t.co/QV3YumGY4p",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "throwback",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "polarSG",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "polarGlobal",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "polar",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "SailforSG",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PolarSingapore",
+					"name": "Polar Singapore",
+					"id": 983991508180316200,
+					"id_str": "983991508180316160",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QV3YumGY4p",
+					"expanded_url": "https://twitter.com/i/web/status/1018471176019021829",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6403,
+			"friends_count": 4531,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 15 07:10:44 +0000 2018",
+		"id": 1018392403026141200,
+		"id_str": "1018392403026141184",
+		"text": "RT @youthworlds: Loving these @11thHourRacing ‘WaterMonsters,’ keeping everyone at the #YouthWorlds hydrated 💧 \n\n#YSWC18 ⛵️🌎🏆🇺🇸 https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YouthWorlds",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "YSWC18",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youthworlds",
+					"name": "Youth Sailing Worlds",
+					"id": 40852388,
+					"id_str": "40852388",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "11thHourRacing",
+					"name": "11th Hour Racing",
+					"id": 1134610429,
+					"id_str": "1134610429",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6403,
+			"friends_count": 4531,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 15 01:17:48 +0000 2018",
+			"id": 1018303586504192000,
+			"id_str": "1018303586504192000",
+			"text": "Loving these @11thHourRacing ‘WaterMonsters,’ keeping everyone at the #YouthWorlds hydrated 💧 \n\n#YSWC18 ⛵️🌎🏆🇺🇸 https://t.co/vwu521BkyJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "YouthWorlds",
+						"indices": [
+							70,
+							82
+						]
+					},
+					{
+						"text": "YSWC18",
+						"indices": [
+							96,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "11thHourRacing",
+						"name": "11th Hour Racing",
+						"id": 1134610429,
+						"id_str": "1134610429",
+						"indices": [
+							13,
+							28
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1018303571077619700,
+						"id_str": "1018303571077619713",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DiG9s-OX4AEiImq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiG9s-OX4AEiImq.jpg",
+						"url": "https://t.co/vwu521BkyJ",
+						"display_url": "pic.twitter.com/vwu521BkyJ",
+						"expanded_url": "https://twitter.com/youthworlds/status/1018303586504192000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1018303571077619700,
+						"id_str": "1018303571077619713",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DiG9s-OX4AEiImq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiG9s-OX4AEiImq.jpg",
+						"url": "https://t.co/vwu521BkyJ",
+						"display_url": "pic.twitter.com/vwu521BkyJ",
+						"expanded_url": "https://twitter.com/youthworlds/status/1018303586504192000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40852388,
+				"id_str": "40852388",
+				"name": "Youth Sailing Worlds",
+				"screen_name": "youthworlds",
+				"location": "Corpus Christi, TX",
+				"description": "🌎⛵️ The Youth Sailing World Championships are the world’s leading youth sailing event. #YSWC18 / #YouthWorlds",
+				"url": "https://t.co/PXUUCNeODS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PXUUCNeODS",
+								"expanded_url": "http://www.facebook.com/youthworlds",
+								"display_url": "facebook.com/youthworlds",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6375,
+				"friends_count": 26,
+				"listed_count": 74,
+				"created_at": "Mon May 18 10:59:20 +0000 2009",
+				"favourites_count": 301,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3298,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "004FA3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968443595844878337/4575SosC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968443595844878337/4575SosC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40852388/1531583117",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "004FA3",
+				"profile_sidebar_fill_color": "8E8E91",
+				"profile_text_color": "004FA3",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 15 05:06:34 +0000 2018",
 		"id": 1018361154974855200,
 		"id_str": "1018361154974855168",
