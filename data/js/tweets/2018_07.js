@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 17 00:09:00 +0000 2018",
+		"id": 1019011046626005000,
+		"id_str": "1019011046626004993",
+		"text": "2 Ways to Lead Like an Olympic Champion https://t.co/57SiVmh3Gi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/57SiVmh3Gi",
+					"expanded_url": "https://buff.ly/2pxYnMG",
+					"display_url": "buff.ly/2pxYnMG",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6401,
+			"friends_count": 4456,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 16 23:14:55 +0000 2018",
+		"id": 1018997438017822700,
+		"id_str": "1018997438017822720",
+		"text": "RT @IntLaserClass: Day 4 report from Laser 4.7 Youth World Championships! https://t.co/FpOZhJKzhq https://t.co/vJyA6EC0J1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IntLaserClass",
+					"name": "ILCA",
+					"id": 589861934,
+					"id_str": "589861934",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FpOZhJKzhq",
+					"expanded_url": "http://ow.ly/lBsr30kXGea",
+					"display_url": "ow.ly/lBsr30kXGea",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1018644588376965100,
+					"id_str": "1018644588376965120",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DiLz2yqVQAAPvwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiLz2yqVQAAPvwQ.jpg",
+					"url": "https://t.co/vJyA6EC0J1",
+					"display_url": "pic.twitter.com/vJyA6EC0J1",
+					"expanded_url": "https://twitter.com/IntLaserClass/status/1018644590025469953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1018644590025470000,
+					"source_status_id_str": "1018644590025469953",
+					"source_user_id": 589861934,
+					"source_user_id_str": "589861934"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1018644588376965100,
+					"id_str": "1018644588376965120",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DiLz2yqVQAAPvwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiLz2yqVQAAPvwQ.jpg",
+					"url": "https://t.co/vJyA6EC0J1",
+					"display_url": "pic.twitter.com/vJyA6EC0J1",
+					"expanded_url": "https://twitter.com/IntLaserClass/status/1018644590025469953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1018644590025470000,
+					"source_status_id_str": "1018644590025469953",
+					"source_user_id": 589861934,
+					"source_user_id_str": "589861934"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6401,
+			"friends_count": 4456,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 15 23:52:50 +0000 2018",
+			"id": 1018644590025470000,
+			"id_str": "1018644590025469953",
+			"text": "Day 4 report from Laser 4.7 Youth World Championships! https://t.co/FpOZhJKzhq https://t.co/vJyA6EC0J1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FpOZhJKzhq",
+						"expanded_url": "http://ow.ly/lBsr30kXGea",
+						"display_url": "ow.ly/lBsr30kXGea",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1018644588376965100,
+						"id_str": "1018644588376965120",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DiLz2yqVQAAPvwQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiLz2yqVQAAPvwQ.jpg",
+						"url": "https://t.co/vJyA6EC0J1",
+						"display_url": "pic.twitter.com/vJyA6EC0J1",
+						"expanded_url": "https://twitter.com/IntLaserClass/status/1018644590025469953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 840,
+								"h": 560,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 840,
+								"h": 560,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1018644588376965100,
+						"id_str": "1018644588376965120",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DiLz2yqVQAAPvwQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiLz2yqVQAAPvwQ.jpg",
+						"url": "https://t.co/vJyA6EC0J1",
+						"display_url": "pic.twitter.com/vJyA6EC0J1",
+						"expanded_url": "https://twitter.com/IntLaserClass/status/1018644590025469953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 840,
+								"h": 560,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 840,
+								"h": 560,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 589861934,
+				"id_str": "589861934",
+				"name": "ILCA",
+				"screen_name": "IntLaserClass",
+				"location": "Worldwide",
+				"description": "",
+				"url": "http://t.co/yLOFAwEMHY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yLOFAwEMHY",
+								"expanded_url": "http://www.laserinternational.org",
+								"display_url": "laserinternational.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1719,
+				"friends_count": 98,
+				"listed_count": 25,
+				"created_at": "Fri May 25 10:00:30 +0000 2012",
+				"favourites_count": 68,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1165,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2248430629/3rigsForPlaques_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2248430629/3rigsForPlaques_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 16 12:23:46 +0000 2018",
+		"id": 1018833568515047400,
+		"id_str": "1018833568515047424",
+		"text": "Our sailors are doing exceptionally well in Gdynia, Poland at the International Laser Class Association - ILCA Lase… https://t.co/nwJSWOiCU7",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nwJSWOiCU7",
+					"expanded_url": "https://twitter.com/i/web/status/1018833568515047424",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6401,
+			"friends_count": 4456,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 15 23:26:28 +0000 2018",
 		"id": 1018637955714334700,
 		"id_str": "1018637955714334720",
@@ -222,7 +800,7 @@ Grailbird.data.tweets_2018_07 =
 		"created_at": "Sun Jul 15 12:23:45 +0000 2018",
 		"id": 1018471176019021800,
 		"id_str": "1018471176019021829",
-		"text": "Going places with the Polar A370 🌏⛵️💨🏄‍♀️ #throwback⠀\n⠀\n@polarsingapore #polarSG #polarGlobal #polar #SailforSG… https://t.co/QV3YumGY4p",
+		"text": "Going places with the Polar A370 🌏⛵️💨🏄♀️ #throwback⠀\n⠀\n@polarsingapore #polarSG #polarGlobal #polar #SailforSG… https://t.co/QV3YumGY4p",
 		"truncated": true,
 		"entities": {
 			"hashtags": [
