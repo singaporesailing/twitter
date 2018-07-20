@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 19 10:31:16 +0000 2018",
+		"id": 1019892420996022300,
+		"id_str": "1019892420996022272",
+		"text": "RT @youthworlds: It's really getting interesting out on the water... 🤔\n\nDay 3️⃣ round-up - right here 👇\n\n#YSWC18 ⛵️🌎🏆🇺🇸 https://t.co/qpKFj5…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YSWC18",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youthworlds",
+					"name": "Youth Sailing Worlds",
+					"id": 40852388,
+					"id_str": "40852388",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & National Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/F6bL3exzFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6bL3exzFR",
+							"expanded_url": "https://m.me/sammysailbot",
+							"display_url": "m.me/sammysailbot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6449,
+			"friends_count": 4515,
+			"listed_count": 40,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 19 03:00:00 +0000 2018",
+			"id": 1019778857681981400,
+			"id_str": "1019778857681981446",
+			"text": "It's really getting interesting out on the water... 🤔\n\nDay 3️⃣ round-up - right here 👇\n\n#YSWC18 ⛵️🌎🏆🇺🇸 https://t.co/qpKFj5VNK4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "YSWC18",
+						"indices": [
+							88,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1019773616634847200,
+						"id_str": "1019773616634847234",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Dib4cRkUYAY4BAy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dib4cRkUYAY4BAy.jpg",
+						"url": "https://t.co/qpKFj5VNK4",
+						"display_url": "pic.twitter.com/qpKFj5VNK4",
+						"expanded_url": "https://twitter.com/youthworlds/status/1019778857681981446/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1019773616634847200,
+						"id_str": "1019773616634847234",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Dib4cRkUYAY4BAy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dib4cRkUYAY4BAy.jpg",
+						"url": "https://t.co/qpKFj5VNK4",
+						"display_url": "pic.twitter.com/qpKFj5VNK4",
+						"expanded_url": "https://twitter.com/youthworlds/status/1019778857681981446/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 108900,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1019773616634847234/vid/640x360/zc9SPTJHyruJlOqd.mp4?tag=3"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1019773616634847234/vid/320x180/sxjHWwCVyJPpFtVJ.mp4?tag=3"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1019773616634847234/vid/1280x720/KlrLUpnK1pgyRpzo.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1019773616634847234/pl/G0CUR83aGjXtxhy_.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Youth Worlds Day 3 | Corpus Christ",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40852388,
+				"id_str": "40852388",
+				"name": "Youth Sailing Worlds",
+				"screen_name": "youthworlds",
+				"location": "Corpus Christi, TX",
+				"description": "🌎⛵️ The Youth Sailing World Championships are the world’s leading youth sailing event. #YSWC18 / #YouthWorlds",
+				"url": "https://t.co/PXUUCNeODS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PXUUCNeODS",
+								"expanded_url": "http://www.facebook.com/youthworlds",
+								"display_url": "facebook.com/youthworlds",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6700,
+				"friends_count": 26,
+				"listed_count": 76,
+				"created_at": "Mon May 18 10:59:20 +0000 2009",
+				"favourites_count": 302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "004FA3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968443595844878337/4575SosC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968443595844878337/4575SosC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40852388/1531583117",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "004FA3",
+				"profile_sidebar_fill_color": "8E8E91",
+				"profile_text_color": "004FA3",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 19 01:38:56 +0000 2018",
 		"id": 1019758453777199100,
 		"id_str": "1019758453777199106",
