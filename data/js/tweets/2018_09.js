@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 17 05:11:20 +0000 2018",
+		"id": 1041555178028064800,
+		"id_str": "1041555178028064774",
+		"text": "RT @BigdataAIAsia: @debbiediscovers is Speaking @BigdataAIAsia Join her by registering today at https://t.co/lt7BOQtsxy! Discover the Full…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BigdataAIAsia",
+					"name": "Big Data & AI Asia 2018",
+					"id": 881856831613784000,
+					"id_str": "881856831613784064",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "debbiediscovers",
+					"name": "Deborah Kay",
+					"id": 3060836348,
+					"id_str": "3060836348",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"screen_name": "BigdataAIAsia",
+					"name": "Big Data & AI Asia 2018",
+					"id": 881856831613784000,
+					"id_str": "881856831613784064",
+					"indices": [
+						48,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lt7BOQtsxy",
+					"expanded_url": "https://bit.ly/2MHRwuq",
+					"display_url": "bit.ly/2MHRwuq",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6989,
+			"friends_count": 4835,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1370,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 17 04:54:58 +0000 2018",
+			"id": 1041551059947204600,
+			"id_str": "1041551059947204609",
+			"text": "@debbiediscovers is Speaking @BigdataAIAsia Join her by registering today at https://t.co/lt7BOQtsxy! Discover the… https://t.co/NWZQQGAf7w",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "debbiediscovers",
+						"name": "Deborah Kay",
+						"id": 3060836348,
+						"id_str": "3060836348",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "BigdataAIAsia",
+						"name": "Big Data & AI Asia 2018",
+						"id": 881856831613784000,
+						"id_str": "881856831613784064",
+						"indices": [
+							29,
+							43
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lt7BOQtsxy",
+						"expanded_url": "https://bit.ly/2MHRwuq",
+						"display_url": "bit.ly/2MHRwuq",
+						"indices": [
+							77,
+							100
+						]
+					},
+					{
+						"url": "https://t.co/NWZQQGAf7w",
+						"expanded_url": "https://twitter.com/i/web/status/1041551059947204609",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 3060836348,
+			"in_reply_to_user_id_str": "3060836348",
+			"in_reply_to_screen_name": "debbiediscovers",
+			"user": {
+				"id": 881856831613784000,
+				"id_str": "881856831613784064",
+				"name": "Big Data & AI Asia 2018",
+				"screen_name": "BigdataAIAsia",
+				"location": "Suntec Singapore",
+				"description": "Big Data & AI Asia Conference & Exhibition is back on 4-5 Dec 2018. Register Now & Save 45%! #bigdata #ai #machinelearning #deeplearning #datascience #analytics",
+				"url": "https://t.co/wlm4VwdTLC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wlm4VwdTLC",
+								"expanded_url": "https://bigdataasiashow.com",
+								"display_url": "bigdataasiashow.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 189,
+				"friends_count": 381,
+				"listed_count": 5,
+				"created_at": "Mon Jul 03 12:47:07 +0000 2017",
+				"favourites_count": 80,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 131,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1040048387465199617/CkyDmb4Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040048387465199617/CkyDmb4Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/881856831613784064/1536801738",
+				"profile_link_color": "CA8096",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 16 00:09:01 +0000 2018",
 		"id": 1041116708931555300,
 		"id_str": "1041116708931555333",
