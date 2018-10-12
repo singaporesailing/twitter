@@ -1,6 +1,737 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 04:23:52 +0000 2018",
+		"id": 1050602928350715900,
+		"id_str": "1050602928350715905",
+		"full_text": "Once you start racing with passion, you start seeing results. If you aren’t willing to put in the effort to complete a task, do not begin in the first place. 💪🏽⠀⠀\n⠀⠀\nGood luck to our sailors competing in Buenos Aires! 🇸🇬 ⠀⠀\n⠀⠀\n#RaisingChampions #… https://t.co/p5mScNFEH2 https://t.co/Pv5aKPI6Ty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RaisingChampions",
+					"indices": [
+						227,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p5mScNFEH2",
+					"expanded_url": "https://www.instagram.com/p/Bo0ZNgbjUMg/",
+					"display_url": "instagram.com/p/Bo0ZNgbjUMg/",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050602926442405900,
+					"id_str": "1050602926442405888",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/DpR9y5aV4AApNi7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpR9y5aV4AApNi7.jpg",
+					"url": "https://t.co/Pv5aKPI6Ty",
+					"display_url": "pic.twitter.com/Pv5aKPI6Ty",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1050602928350715905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050602926442405900,
+					"id_str": "1050602926442405888",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/DpR9y5aV4AApNi7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpR9y5aV4AApNi7.jpg",
+					"url": "https://t.co/Pv5aKPI6Ty",
+					"display_url": "pic.twitter.com/Pv5aKPI6Ty",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1050602928350715905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7239,
+			"friends_count": 4660,
+			"listed_count": 40,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Once you start racing with passion, you start seeing results. If you aren’t willing to put in the effort to complete a task, do not begin in the first place. 💪🏽⠀⠀\n⠀⠀\nGood luck to our sailors competing in Buenos Aires! 🇸🇬 ⠀⠀\n⠀⠀\n#RaisingChampions #… https://t.co/p5mScNFEH2 https://t.co/Pv5aKPI6Ty"
+	},
+	{
+		"created_at": "Thu Oct 11 23:23:38 +0000 2018",
+		"id": 1050527372838137900,
+		"id_str": "1050527372838137858",
+		"full_text": "Learn from your mistakes in the past and leave it there, focus on the present and the now. This is how winning is done! 🇸🇬⛵️⠀\n⠀\nBest of luck to our YOG sailors competing today!! ⠀\n⠀\n#RaisingChampions #youtholympicgames2018 #youtholympic #BeunosAires2… https://t.co/4bsNuX2wui https://t.co/tAXgGyYmcZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RaisingChampions",
+					"indices": [
+						182,
+						199
+					]
+				},
+				{
+					"text": "youtholympicgames2018",
+					"indices": [
+						200,
+						222
+					]
+				},
+				{
+					"text": "youtholympic",
+					"indices": [
+						223,
+						236
+					]
+				},
+				{
+					"text": "BeunosAires2",
+					"indices": [
+						237,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4bsNuX2wui",
+					"expanded_url": "https://www.instagram.com/p/Boz4qlLj_s3/",
+					"display_url": "instagram.com/p/Boz4qlLj_s3/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050527371646910500,
+					"id_str": "1050527371646910467",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DpQ5FB3WwAMkcjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpQ5FB3WwAMkcjM.jpg",
+					"url": "https://t.co/tAXgGyYmcZ",
+					"display_url": "pic.twitter.com/tAXgGyYmcZ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1050527372838137858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050527371646910500,
+					"id_str": "1050527371646910467",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DpQ5FB3WwAMkcjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpQ5FB3WwAMkcjM.jpg",
+					"url": "https://t.co/tAXgGyYmcZ",
+					"display_url": "pic.twitter.com/tAXgGyYmcZ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1050527372838137858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7239,
+			"friends_count": 4660,
+			"listed_count": 40,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn from your mistakes in the past and leave it there, focus on the present and the now. This is how winning is done! 🇸🇬⛵️⠀\n⠀\nBest of luck to our YOG sailors competing today!! ⠀\n⠀\n#RaisingChampions #youtholympicgames2018 #youtholympic #BeunosAires2… https://t.co/4bsNuX2wui https://t.co/tAXgGyYmcZ"
+	},
+	{
+		"created_at": "Thu Oct 11 12:23:48 +0000 2018",
+		"id": 1050361320451821600,
+		"id_str": "1050361320451821570",
+		"full_text": "It is the the third day of the Youth Olympic Games today for the windsurfers, and the second for our Nacra 15 sailors! ⠀⠀\n⠀⠀\nYnez Lim was Team Singapore’s lone windsurfer in the 2014 Youth Olympic Games held in Nanjing, China.⠀⠀\n⠀⠀\nShe finished i… https://t.co/D2kMj4DfHY https://t.co/LFkNzn9OvU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D2kMj4DfHY",
+					"expanded_url": "https://www.instagram.com/p/BoypTP1DtvT/",
+					"display_url": "instagram.com/p/BoypTP1DtvT/",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050361319231287300,
+					"id_str": "1050361319231287297",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/DpOiDgaXcAEY02x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpOiDgaXcAEY02x.jpg",
+					"url": "https://t.co/LFkNzn9OvU",
+					"display_url": "pic.twitter.com/LFkNzn9OvU",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1050361320451821570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050361319231287300,
+					"id_str": "1050361319231287297",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/DpOiDgaXcAEY02x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpOiDgaXcAEY02x.jpg",
+					"url": "https://t.co/LFkNzn9OvU",
+					"display_url": "pic.twitter.com/LFkNzn9OvU",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1050361320451821570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7239,
+			"friends_count": 4660,
+			"listed_count": 40,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is the the third day of the Youth Olympic Games today for the windsurfers, and the second for our Nacra 15 sailors! ⠀⠀\n⠀⠀\nYnez Lim was Team Singapore’s lone windsurfer in the 2014 Youth Olympic Games held in Nanjing, China.⠀⠀\n⠀⠀\nShe finished i… https://t.co/D2kMj4DfHY https://t.co/LFkNzn9OvU"
+	},
+	{
+		"created_at": "Thu Oct 11 11:15:13 +0000 2018",
+		"id": 1050344060664389600,
+		"id_str": "1050344060664389632",
+		"full_text": "Day 3 &amp; 4 YOG race report for sailing!\n\n#RaisingChampions #OneTeamSG #YOG2018 #BuenosAires2018 #YouthOlympicGames https://t.co/ri2iZpkk2J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RaisingChampions",
+					"indices": [
+						44,
+						61
+					]
+				},
+				{
+					"text": "OneTeamSG",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "YOG2018",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "BuenosAires2018",
+					"indices": [
+						82,
+						98
+					]
+				},
+				{
+					"text": "YouthOlympicGames",
+					"indices": [
+						99,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ri2iZpkk2J",
+					"expanded_url": "https://yog.sailing.org.sg/blog/day-3-4-yog-race-report/?utm_medium=social&utm_source=twitter.com&utm_campaign=yog-content",
+					"display_url": "yog.sailing.org.sg/blog/day-3-4-y…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7239,
+			"friends_count": 4660,
+			"listed_count": 40,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 3 &amp; 4 YOG race report for sailing!\n\n#RaisingChampions #OneTeamSG #YOG2018 #BuenosAires2018 #YouthOlympicGames https://t.co/ri2iZpkk2J"
+	},
+	{
 		"created_at": "Thu Oct 11 00:11:27 +0000 2018",
 		"id": 1050177018166423600,
 		"id_str": "1050177018166423552",
