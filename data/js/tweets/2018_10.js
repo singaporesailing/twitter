@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 11:23:44 +0000 2018",
+		"id": 1050708593853571100,
+		"id_str": "1050708593853571072",
+		"full_text": "\"I started sailing at the age of 10 in the Optimist, as with any other sailor. I find it very liberating being in the open sea; it’s like my playground where I am able to sail in any direction that I want and explore. I feel very blessed to have qualifie… https://t.co/ktnTUO3o29 https://t.co/wGsRT3Xll4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ktnTUO3o29",
+					"expanded_url": "https://www.instagram.com/p/Bo1MJ81jYt-/",
+					"display_url": "instagram.com/p/Bo1MJ81jYt-/",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050708592633008100,
+					"id_str": "1050708592633008133",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DpTd5epXUAURFnM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpTd5epXUAURFnM.jpg",
+					"url": "https://t.co/wGsRT3Xll4",
+					"display_url": "pic.twitter.com/wGsRT3Xll4",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1050708593853571072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050708592633008100,
+					"id_str": "1050708592633008133",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DpTd5epXUAURFnM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpTd5epXUAURFnM.jpg",
+					"url": "https://t.co/wGsRT3Xll4",
+					"display_url": "pic.twitter.com/wGsRT3Xll4",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1050708593853571072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7245,
+			"friends_count": 4732,
+			"listed_count": 40,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I started sailing at the age of 10 in the Optimist, as with any other sailor. I find it very liberating being in the open sea; it’s like my playground where I am able to sail in any direction that I want and explore. I feel very blessed to have qualifie… https://t.co/ktnTUO3o29 https://t.co/wGsRT3Xll4"
+	},
+	{
+		"created_at": "Fri Oct 12 11:15:03 +0000 2018",
+		"id": 1050706408474386400,
+		"id_str": "1050706408474386432",
+		"full_text": "Winds were light yet gusty throughout the day and our young windsurfers did the best in the conditions. Let's continue to cheer them on as we approach the last few days of racing! ✊\n\n#YOG2018 #BuenosAires2018 #RaisingChampions #OneTeamSG https://t.co/pEKzfmDrDY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOG2018",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "BuenosAires2018",
+					"indices": [
+						192,
+						208
+					]
+				},
+				{
+					"text": "RaisingChampions",
+					"indices": [
+						209,
+						226
+					]
+				},
+				{
+					"text": "OneTeamSG",
+					"indices": [
+						227,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pEKzfmDrDY",
+					"expanded_url": "https://yog.sailing.org.sg/blog/day-5-yog-race-report/?utm_medium=social&utm_source=twitter.com&utm_campaign=yog-content",
+					"display_url": "yog.sailing.org.sg/blog/day-5-yog…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing Team 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7245,
+			"friends_count": 4732,
+			"listed_count": 40,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Winds were light yet gusty throughout the day and our young windsurfers did the best in the conditions. Let's continue to cheer them on as we approach the last few days of racing! ✊\n\n#YOG2018 #BuenosAires2018 #RaisingChampions #OneTeamSG https://t.co/pEKzfmDrDY"
+	},
+	{
 		"created_at": "Fri Oct 12 04:23:52 +0000 2018",
 		"id": 1050602928350715900,
 		"id_str": "1050602928350715905",
