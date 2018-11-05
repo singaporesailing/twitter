@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 05 00:30:06 +0000 2018",
+		"id": 1059241408090005500,
+		"id_str": "1059241408090005505",
+		"full_text": "\"These moments are jarring, but once we adjust to them, like entry into a cold pool, we become more comfortable and calm, and then we can simply figure out what to do, and do it.\"\n\n#TheArtofLosing #ChangingMindsets #Attitude https://t.co/XckVF35B6C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheArtofLosing",
+					"indices": [
+						181,
+						196
+					]
+				},
+				{
+					"text": "ChangingMindsets",
+					"indices": [
+						197,
+						214
+					]
+				},
+				{
+					"text": "Attitude",
+					"indices": [
+						215,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XckVF35B6C",
+					"expanded_url": "https://thoughtcatalog.com/corinda-katz/2014/05/4-things-you-should-learn-about-the-art-of-losing-gracefully/",
+					"display_url": "thoughtcatalog.com/corinda-katz/2…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7327,
+			"friends_count": 4769,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"These moments are jarring, but once we adjust to them, like entry into a cold pool, we become more comfortable and calm, and then we can simply figure out what to do, and do it.\"\n\n#TheArtofLosing #ChangingMindsets #Attitude https://t.co/XckVF35B6C"
+	},
+	{
+		"created_at": "Sun Nov 04 12:23:35 +0000 2018",
+		"id": 1059058574457012200,
+		"id_str": "1059058574457012224",
+		"full_text": "With the right attitude you can achieve anything 💪💪⠀\n⠀\n#wordsofwisdom #SSTquotes #quotesandsayings #inspiringquotes #quotestoliveby #inspiremyinstagram #meetthemoment #seekthepositive https://t.co/tBxbVT5LVZ https://t.co/ix5UOEjq4n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wordsofwisdom",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"text": "SSTquotes",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "quotesandsayings",
+					"indices": [
+						81,
+						98
+					]
+				},
+				{
+					"text": "inspiringquotes",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"text": "quotestoliveby",
+					"indices": [
+						116,
+						131
+					]
+				},
+				{
+					"text": "inspiremyinstagram",
+					"indices": [
+						132,
+						151
+					]
+				},
+				{
+					"text": "meetthemoment",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"text": "seekthepositive",
+					"indices": [
+						167,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tBxbVT5LVZ",
+					"expanded_url": "https://www.instagram.com/p/BpwfR2vBTQE/",
+					"display_url": "instagram.com/p/BpwfR2vBTQE/",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1059058573236408300,
+					"id_str": "1059058573236408320",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/DrKIKUYWkAAntqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrKIKUYWkAAntqf.jpg",
+					"url": "https://t.co/ix5UOEjq4n",
+					"display_url": "pic.twitter.com/ix5UOEjq4n",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1059058574457012224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059058573236408300,
+					"id_str": "1059058573236408320",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/DrKIKUYWkAAntqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrKIKUYWkAAntqf.jpg",
+					"url": "https://t.co/ix5UOEjq4n",
+					"display_url": "pic.twitter.com/ix5UOEjq4n",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1059058574457012224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7327,
+			"friends_count": 4769,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With the right attitude you can achieve anything 💪💪⠀\n⠀\n#wordsofwisdom #SSTquotes #quotesandsayings #inspiringquotes #quotestoliveby #inspiremyinstagram #meetthemoment #seekthepositive https://t.co/tBxbVT5LVZ https://t.co/ix5UOEjq4n"
+	},
+	{
 		"created_at": "Sun Nov 04 00:37:31 +0000 2018",
 		"id": 1058880889193562100,
 		"id_str": "1058880889193562113",
