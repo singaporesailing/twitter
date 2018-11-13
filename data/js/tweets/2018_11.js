@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 00:09:02 +0000 2018",
+		"id": 1062135212828778500,
+		"id_str": "1062135212828778496",
+		"full_text": "Our Laser 4.7 team has safely returned to Singapore today after a week and a half long training camp in Fujian, China 🇨🇳 The team trained hard in China, making full use of the good conditions there ☀️💨 \n#teamsingapore #oneteamSG #singaporesailingteam #sgsailing #champs https://t.co/qucCugZzD4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teamsingapore",
+					"indices": [
+						203,
+						217
+					]
+				},
+				{
+					"text": "oneteamSG",
+					"indices": [
+						218,
+						228
+					]
+				},
+				{
+					"text": "singaporesailingteam",
+					"indices": [
+						229,
+						250
+					]
+				},
+				{
+					"text": "sgsailing",
+					"indices": [
+						251,
+						261
+					]
+				},
+				{
+					"text": "champs",
+					"indices": [
+						262,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062135211134206000,
+					"id_str": "1062135211134205954",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr12WNsWwAI8Gki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr12WNsWwAI8Gki.jpg",
+					"url": "https://t.co/qucCugZzD4",
+					"display_url": "pic.twitter.com/qucCugZzD4",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1062135212828778496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 806,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062135211134206000,
+					"id_str": "1062135211134205954",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr12WNsWwAI8Gki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr12WNsWwAI8Gki.jpg",
+					"url": "https://t.co/qucCugZzD4",
+					"display_url": "pic.twitter.com/qucCugZzD4",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1062135212828778496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 806,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7195,
+			"friends_count": 4646,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1491,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our Laser 4.7 team has safely returned to Singapore today after a week and a half long training camp in Fujian, China 🇨🇳 The team trained hard in China, making full use of the good conditions there ☀️💨 \n#teamsingapore #oneteamSG #singaporesailingteam #sgsailing #champs https://t.co/qucCugZzD4"
+	},
+	{
+		"created_at": "Mon Nov 12 11:23:50 +0000 2018",
+		"id": 1061942640944574500,
+		"id_str": "1061942640944574469",
+		"full_text": "Nothing is impossible, the word itself says “I’m possible” 💪💪\n#inspiremyinstagram #meetthemoment #seekthepositive https://t.co/JfLYdz4msD https://t.co/gWxTVnh1AK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "inspiremyinstagram",
+					"indices": [
+						62,
+						81
+					]
+				},
+				{
+					"text": "meetthemoment",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "seekthepositive",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JfLYdz4msD",
+					"expanded_url": "https://www.instagram.com/p/BqE_y7lH5HJ/",
+					"display_url": "instagram.com/p/BqE_y7lH5HJ/",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1061942639942123500,
+					"id_str": "1061942639942123520",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DrzHNGGXQAAuyDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrzHNGGXQAAuyDe.jpg",
+					"url": "https://t.co/gWxTVnh1AK",
+					"display_url": "pic.twitter.com/gWxTVnh1AK",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1061942640944574469/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061942639942123500,
+					"id_str": "1061942639942123520",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DrzHNGGXQAAuyDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrzHNGGXQAAuyDe.jpg",
+					"url": "https://t.co/gWxTVnh1AK",
+					"display_url": "pic.twitter.com/gWxTVnh1AK",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1061942640944574469/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7195,
+			"friends_count": 4646,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1491,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nothing is impossible, the word itself says “I’m possible” 💪💪\n#inspiremyinstagram #meetthemoment #seekthepositive https://t.co/JfLYdz4msD https://t.co/gWxTVnh1AK"
+	},
+	{
 		"created_at": "Mon Nov 12 04:43:02 +0000 2018",
 		"id": 1061841775550230500,
 		"id_str": "1061841775550230528",
