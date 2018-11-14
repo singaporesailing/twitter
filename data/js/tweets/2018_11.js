@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 13:23:45 +0000 2018",
+		"id": 1062335206319972400,
+		"id_str": "1062335206319972354",
+		"full_text": "Currently overseas as well is our Laser Radial team.⠀\n⠀\nThe team of 5 (from left to right) Simone Chen [ @chen_simonemone ], Maurice Ng [ @maurice_ng ], Nathanial Soo [ @nathanielszy ], Jacob Sze [ @jacob.sze ] and Lee Wonn Kye [ @wonnkye ] are in Ma… https://t.co/sLCLKrN5oI https://t.co/sybQF9xNGt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chen_simonemone",
+					"name": "simone chen",
+					"id": 978287094891073500,
+					"id_str": "978287094891073536",
+					"indices": [
+						105,
+						121
+					]
+				},
+				{
+					"screen_name": "maurice_ng",
+					"name": "maurice ng",
+					"id": 227604955,
+					"id_str": "227604955",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"screen_name": "nathanielszy",
+					"name": "Nathaniel Morris",
+					"id": 2290278195,
+					"id_str": "2290278195",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "jacob",
+					"name": "Jacob Mullins",
+					"id": 12480032,
+					"id_str": "12480032",
+					"indices": [
+						198,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sLCLKrN5oI",
+					"expanded_url": "https://www.instagram.com/p/BqHtGr1BRgn/",
+					"display_url": "instagram.com/p/BqHtGr1BRgn/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1062335202624761900,
+					"id_str": "1062335202624761858",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr4sPQDXcAIVNGc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr4sPQDXcAIVNGc.jpg",
+					"url": "https://t.co/sybQF9xNGt",
+					"display_url": "pic.twitter.com/sybQF9xNGt",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1062335206319972354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062335202624761900,
+					"id_str": "1062335202624761858",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr4sPQDXcAIVNGc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr4sPQDXcAIVNGc.jpg",
+					"url": "https://t.co/sybQF9xNGt",
+					"display_url": "pic.twitter.com/sybQF9xNGt",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1062335206319972354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7203,
+			"friends_count": 4709,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Currently overseas as well is our Laser Radial team.⠀\n⠀\nThe team of 5 (from left to right) Simone Chen [ @chen_simonemone ], Maurice Ng [ @maurice_ng ], Nathanial Soo [ @nathanielszy ], Jacob Sze [ @jacob.sze ] and Lee Wonn Kye [ @wonnkye ] are in Ma… https://t.co/sLCLKrN5oI https://t.co/sybQF9xNGt"
+	},
+	{
+		"created_at": "Tue Nov 13 11:11:05 +0000 2018",
+		"id": 1062301820062699500,
+		"id_str": "1062301820062699520",
+		"full_text": "OUR 2019 INTAKES ARE OUT AND OPEN FOR SIGN UPS! YAY! 😊 \n\nSign up now and share this with your family and friends who might be interested! 👉 https://t.co/anVTlEAn3B 👈\n\n#SailforSG #SGWeekend #FunOutdoorActivities #SeaSports #YoungSailors https://t.co/xe1WNPfNnT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailforSG",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "SGWeekend",
+					"indices": [
+						178,
+						188
+					]
+				},
+				{
+					"text": "FunOutdoorActivities",
+					"indices": [
+						189,
+						210
+					]
+				},
+				{
+					"text": "SeaSports",
+					"indices": [
+						211,
+						221
+					]
+				},
+				{
+					"text": "YoungSailors",
+					"indices": [
+						222,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/anVTlEAn3B",
+					"expanded_url": "https://bit.ly/oj-2019",
+					"display_url": "bit.ly/oj-2019",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1062301814148730900,
+					"id_str": "1062301814148730882",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr4N3ySWkAI_ywY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr4N3ySWkAI_ywY.jpg",
+					"url": "https://t.co/xe1WNPfNnT",
+					"display_url": "pic.twitter.com/xe1WNPfNnT",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1062301820062699520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062301814148730900,
+					"id_str": "1062301814148730882",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr4N3ySWkAI_ywY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr4N3ySWkAI_ywY.jpg",
+					"url": "https://t.co/xe1WNPfNnT",
+					"display_url": "pic.twitter.com/xe1WNPfNnT",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1062301820062699520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7203,
+			"friends_count": 4709,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OUR 2019 INTAKES ARE OUT AND OPEN FOR SIGN UPS! YAY! 😊 \n\nSign up now and share this with your family and friends who might be interested! 👉 https://t.co/anVTlEAn3B 👈\n\n#SailforSG #SGWeekend #FunOutdoorActivities #SeaSports #YoungSailors https://t.co/xe1WNPfNnT"
+	},
+	{
 		"created_at": "Tue Nov 13 00:09:02 +0000 2018",
 		"id": 1062135212828778500,
 		"id_str": "1062135212828778496",
