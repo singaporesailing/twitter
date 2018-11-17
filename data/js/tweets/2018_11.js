@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 17 00:58:23 +0000 2018",
+		"id": 1063597183193104400,
+		"id_str": "1063597183193104389",
+		"full_text": "Check out this exciting job opportunity - Marketing and PR Executive at Singapore Sailing Federation! https://t.co/bjyLAD8KyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bjyLAD8KyE",
+					"expanded_url": "https://glints.com/opportunities/jobs/8e65b328-fe83-49f3-b683-23fdb62f9e46",
+					"display_url": "glints.com/opportunities/…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7228,
+			"friends_count": 5337,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1497,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out this exciting job opportunity - Marketing and PR Executive at Singapore Sailing Federation! https://t.co/bjyLAD8KyE"
+	},
+	{
+		"created_at": "Fri Nov 16 13:23:57 +0000 2018",
+		"id": 1063422421603180500,
+		"id_str": "1063422421603180544",
+		"full_text": "Opportunities do not knock, it presents itself when you beat down the door.\n\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotestagram #lifequotes #dailyquotes #wordsofwisdo… https://t.co/iPZ8EPWQSO https://t.co/ytUzLenuBZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quote",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "qotd",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "quoteoftheday",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"text": "inspire",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "inspiring",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "motivation",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"text": "quotestoliveby",
+					"indices": [
+						145,
+						160
+					]
+				},
+				{
+					"text": "quotesdaily",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"text": "quotesoftheday",
+					"indices": [
+						174,
+						189
+					]
+				},
+				{
+					"text": "instaquote",
+					"indices": [
+						190,
+						201
+					]
+				},
+				{
+					"text": "quotestagram",
+					"indices": [
+						202,
+						215
+					]
+				},
+				{
+					"text": "lifequotes",
+					"indices": [
+						216,
+						227
+					]
+				},
+				{
+					"text": "dailyquotes",
+					"indices": [
+						228,
+						240
+					]
+				},
+				{
+					"text": "wordsofwisdo",
+					"indices": [
+						241,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iPZ8EPWQSO",
+					"expanded_url": "https://www.instagram.com/p/BqPb7wugYWq/",
+					"display_url": "instagram.com/p/BqPb7wugYWq/",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1063422420365860900,
+					"id_str": "1063422420365860864",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DsIJDpwX4AA4Ms8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsIJDpwX4AA4Ms8.jpg",
+					"url": "https://t.co/ytUzLenuBZ",
+					"display_url": "pic.twitter.com/ytUzLenuBZ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1063422421603180544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063422420365860900,
+					"id_str": "1063422420365860864",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DsIJDpwX4AA4Ms8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsIJDpwX4AA4Ms8.jpg",
+					"url": "https://t.co/ytUzLenuBZ",
+					"display_url": "pic.twitter.com/ytUzLenuBZ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1063422421603180544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7228,
+			"friends_count": 5337,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1497,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Opportunities do not knock, it presents itself when you beat down the door.\n\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotestagram #lifequotes #dailyquotes #wordsofwisdo… https://t.co/iPZ8EPWQSO https://t.co/ytUzLenuBZ"
+	},
+	{
 		"created_at": "Wed Nov 14 14:00:45 +0000 2018",
 		"id": 1062706906924494800,
 		"id_str": "1062706906924494849",
