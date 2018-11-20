@@ -1,6 +1,509 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 19 12:23:49 +0000 2018",
+		"id": 1064494450783727600,
+		"id_str": "1064494450783727616",
+		"full_text": "Achieving your goals are never easy, but the fruits they bear are so very worth it! ⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotestagram #lifequotes #dailyquote… https://t.co/vZuHlLtM1J https://t.co/kSBWUWZa9J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quote",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "qotd",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "quoteoftheday",
+					"indices": [
+						109,
+						123
+					]
+				},
+				{
+					"text": "inspire",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "inspiring",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "motivation",
+					"indices": [
+						144,
+						155
+					]
+				},
+				{
+					"text": "quotestoliveby",
+					"indices": [
+						156,
+						171
+					]
+				},
+				{
+					"text": "quotesdaily",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "quotesoftheday",
+					"indices": [
+						185,
+						200
+					]
+				},
+				{
+					"text": "instaquote",
+					"indices": [
+						201,
+						212
+					]
+				},
+				{
+					"text": "quotestagram",
+					"indices": [
+						213,
+						226
+					]
+				},
+				{
+					"text": "lifequotes",
+					"indices": [
+						227,
+						238
+					]
+				},
+				{
+					"text": "dailyquote",
+					"indices": [
+						239,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vZuHlLtM1J",
+					"expanded_url": "https://www.instagram.com/p/BqXFUv9hQ7Q/",
+					"display_url": "instagram.com/p/BqXFUv9hQ7Q/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1064494449668046800,
+					"id_str": "1064494449668046848",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DsXYD-HWwAAdxWt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsXYD-HWwAAdxWt.jpg",
+					"url": "https://t.co/kSBWUWZa9J",
+					"display_url": "pic.twitter.com/kSBWUWZa9J",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1064494450783727616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064494449668046800,
+					"id_str": "1064494449668046848",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DsXYD-HWwAAdxWt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsXYD-HWwAAdxWt.jpg",
+					"url": "https://t.co/kSBWUWZa9J",
+					"display_url": "pic.twitter.com/kSBWUWZa9J",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1064494450783727616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7243,
+			"friends_count": 5713,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Achieving your goals are never easy, but the fruits they bear are so very worth it! ⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotestagram #lifequotes #dailyquote… https://t.co/vZuHlLtM1J https://t.co/kSBWUWZa9J"
+	},
+	{
+		"created_at": "Mon Nov 19 04:00:38 +0000 2018",
+		"id": 1064367824309809200,
+		"id_str": "1064367824309809153",
+		"full_text": "62.5% of people around the world don't have access to sanitation. This means human waste is contaminating and polluting our environment. We must build toilets that work together with our environment. #WorldToiletDay #WhenNatureCalls https://t.co/PgljWdOvGs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldToiletDay",
+					"indices": [
+						200,
+						215
+					]
+				},
+				{
+					"text": "WhenNatureCalls",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064367770194911200,
+					"id_str": "1064367770194911233",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1064367770194911233/pu/img/wQB9qVbtD_JHCEJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1064367770194911233/pu/img/wQB9qVbtD_JHCEJp.jpg",
+					"url": "https://t.co/PgljWdOvGs",
+					"display_url": "pic.twitter.com/PgljWdOvGs",
+					"expanded_url": "https://twitter.com/UNEnvironment/status/1064367824309809153/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064367770194911200,
+					"id_str": "1064367770194911233",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1064367770194911233/pu/img/wQB9qVbtD_JHCEJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1064367770194911233/pu/img/wQB9qVbtD_JHCEJp.jpg",
+					"url": "https://t.co/PgljWdOvGs",
+					"display_url": "pic.twitter.com/PgljWdOvGs",
+					"expanded_url": "https://twitter.com/UNEnvironment/status/1064367824309809153/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 48280,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1064367770194911233/pu/vid/720x720/qGtmwoKp-3OTm-TI.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1064367770194911233/pu/vid/480x480/jOSLI81PJRu8xmkT.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1064367770194911233/pu/vid/320x320/DufDT5KP0ZzIbAi-.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1064367770194911233/pu/pl/rzj-IOHlHJOGgcDN.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38146999,
+			"id_str": "38146999",
+			"name": "UN Environment",
+			"screen_name": "UNEnvironment",
+			"location": "Nairobi, Kenya",
+			"description": "Official account of the United Nations Environment Programme (UN Environment). Think beyond, live within. #SolveDifferent",
+			"url": "https://t.co/IJefL2bRIW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IJefL2bRIW",
+							"expanded_url": "https://www.unenvironment.org/",
+							"display_url": "unenvironment.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 798976,
+			"friends_count": 2955,
+			"listed_count": 9829,
+			"created_at": "Wed May 06 09:34:32 +0000 2009",
+			"favourites_count": 8566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25312,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/821034572854992896/yyfxmpOK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/821034572854992896/yyfxmpOK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38146999/1529660326",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 388,
+		"favorite_count": 562,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "62.5% of people around the world don't have access to sanitation. This means human waste is contaminating and polluting our environment. We must build toilets that work together with our environment. #WorldToiletDay #WhenNatureCalls https://t.co/PgljWdOvGs"
+	},
+	{
 		"created_at": "Sun Nov 18 12:23:54 +0000 2018",
 		"id": 1064132086339170300,
 		"id_str": "1064132086339170304",
