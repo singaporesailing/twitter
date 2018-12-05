@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 05 00:37:02 +0000 2018",
+		"id": 1070114790796902400,
+		"id_str": "1070114790796902400",
+		"full_text": "With the Opti Junior Weekend Training Programme by the Singapore Sailing Federation, you can let your child experience sailing in a safe space under the guidance of very experienced and nurturing coaches. 15% Promo Code in article!\n\n https://t.co/24brBpTIcZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/24brBpTIcZ",
+					"expanded_url": "https://thenewageparents.com/kids-water-sports-classes-singapore/",
+					"display_url": "thenewageparents.com/kids-water-spo…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7315,
+			"friends_count": 6784,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With the Opti Junior Weekend Training Programme by the Singapore Sailing Federation, you can let your child experience sailing in a safe space under the guidance of very experienced and nurturing coaches. 15% Promo Code in article!\n\n https://t.co/24brBpTIcZ"
+	},
+	{
+		"created_at": "Wed Dec 05 00:08:06 +0000 2018",
+		"id": 1070107510592413700,
+		"id_str": "1070107510592413697",
+		"full_text": "In order for professional athletes to maintain their rigorous training programs, they need to fuel their bodies correctly. And their lean bodies definitely reflect how great their nutrition is. \n\n#AthleticDiet #Nutrition #FoodForThought https://t.co/sYGmJLWE7Q https://t.co/kyeN16zFG8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AthleticDiet",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"text": "Nutrition",
+					"indices": [
+						210,
+						220
+					]
+				},
+				{
+					"text": "FoodForThought",
+					"indices": [
+						221,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sYGmJLWE7Q",
+					"expanded_url": "https://www.active.com/food-and-nutrition/articles/10-tips-to-eat-like-a-pro-athlete",
+					"display_url": "active.com/food-and-nutri…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070107505806766100,
+					"id_str": "1070107505806766081",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/DtnJG1sXcAE99j8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtnJG1sXcAE99j8.jpg",
+					"url": "https://t.co/kyeN16zFG8",
+					"display_url": "pic.twitter.com/kyeN16zFG8",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1070107510592413697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 580,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070107505806766100,
+					"id_str": "1070107505806766081",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/DtnJG1sXcAE99j8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtnJG1sXcAE99j8.jpg",
+					"url": "https://t.co/kyeN16zFG8",
+					"display_url": "pic.twitter.com/kyeN16zFG8",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1070107510592413697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 580,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7315,
+			"friends_count": 6784,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In order for professional athletes to maintain their rigorous training programs, they need to fuel their bodies correctly. And their lean bodies definitely reflect how great their nutrition is. \n\n#AthleticDiet #Nutrition #FoodForThought https://t.co/sYGmJLWE7Q https://t.co/kyeN16zFG8"
+	},
+	{
+		"created_at": "Tue Dec 04 17:37:40 +0000 2018",
+		"id": 1070009253774028800,
+		"id_str": "1070009253774028801",
+		"full_text": "In S’pore, 40% of recyclables in blue bins end up not recycled after contamination by food &amp; liquid waste – https://t.co/J1AEzDSO3j 😢 https://t.co/e7m44U0dGt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J1AEzDSO3j",
+					"expanded_url": "http://Mothership.SG",
+					"display_url": "Mothership.SG",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/e7m44U0dGt",
+					"expanded_url": "https://mothership.sg/2018/12/recyclables-contaminated-singapore-percentage/",
+					"display_url": "mothership.sg/2018/12/recycl…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7315,
+			"friends_count": 6784,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In S’pore, 40% of recyclables in blue bins end up not recycled after contamination by food &amp; liquid waste – https://t.co/J1AEzDSO3j 😢 https://t.co/e7m44U0dGt"
+	},
+	{
+		"created_at": "Tue Dec 04 12:23:52 +0000 2018",
+		"id": 1069930282701283300,
+		"id_str": "1069930282701283328",
+		"full_text": "Our Laser Standard sailor, Ryan Lo [@ryanlosailing], is currently in Split, Croatia 🇭🇷 training with other Laser sailors from all over the world! ⠀\n⠀\nHe is also taking over our Instagram stories, posting his training schedules and showing us the beau… https://t.co/jGrGwZSNMN https://t.co/cWbJx7Feaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jGrGwZSNMN",
+					"expanded_url": "https://www.instagram.com/p/Bq9sYi9BxhV/",
+					"display_url": "instagram.com/p/Bq9sYi9BxhV/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1069930281472282600,
+					"id_str": "1069930281472282624",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dtkn7BmW0AAWabq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dtkn7BmW0AAWabq.jpg",
+					"url": "https://t.co/cWbJx7Feaw",
+					"display_url": "pic.twitter.com/cWbJx7Feaw",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1069930282701283328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069930281472282600,
+					"id_str": "1069930281472282624",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dtkn7BmW0AAWabq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dtkn7BmW0AAWabq.jpg",
+					"url": "https://t.co/cWbJx7Feaw",
+					"display_url": "pic.twitter.com/cWbJx7Feaw",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1069930282701283328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7315,
+			"friends_count": 6784,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our Laser Standard sailor, Ryan Lo [@ryanlosailing], is currently in Split, Croatia 🇭🇷 training with other Laser sailors from all over the world! ⠀\n⠀\nHe is also taking over our Instagram stories, posting his training schedules and showing us the beau… https://t.co/jGrGwZSNMN https://t.co/cWbJx7Feaw"
+	},
+	{
+		"created_at": "Tue Dec 04 09:33:46 +0000 2018",
+		"id": 1069887476649517000,
+		"id_str": "1069887476649517059",
+		"full_text": "@aiaddysonzhang @littlecoderssg Awesome! It’s tons of fun!",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aiaddysonzhang",
+					"name": "Ai Addyson-Zhang, Ph.D Digital Learning Consultant",
+					"id": 2154802629,
+					"id_str": "2154802629",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "littlecoderssg",
+					"name": "Little Coders SG",
+					"id": 3188621004,
+					"id_str": "3188621004",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1069881694734377000,
+		"in_reply_to_status_id_str": "1069881694734376960",
+		"in_reply_to_user_id": 2154802629,
+		"in_reply_to_user_id_str": "2154802629",
+		"in_reply_to_screen_name": "aiaddysonzhang",
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7315,
+			"friends_count": 6784,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aiaddysonzhang @littlecoderssg Awesome! It’s tons of fun!"
+	},
+	{
 		"created_at": "Tue Dec 04 06:23:37 +0000 2018",
 		"id": 1069839623415783400,
 		"id_str": "1069839623415783424",
