@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 06 00:09:06 +0000 2018",
+		"id": 1070470150053343200,
+		"id_str": "1070470150053343232",
+		"full_text": "\"What these athletes have in common is that their sport is important to them and they’re committed to being the best that they can be within the scope of their limitations.\"\n\n#AthleteMindset #MentalHabits #SportsPsychology https://t.co/Z5qFtGnUSG https://t.co/91FHX5Wj8z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AthleteMindset",
+					"indices": [
+						175,
+						190
+					]
+				},
+				{
+					"text": "MentalHabits",
+					"indices": [
+						191,
+						204
+					]
+				},
+				{
+					"text": "SportsPsychology",
+					"indices": [
+						205,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z5qFtGnUSG",
+					"expanded_url": "https://www.sportpsych.org/nine-mental-skills-overview",
+					"display_url": "sportpsych.org/nine-mental-sk…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070470145359970300,
+					"id_str": "1070470145359970304",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/DtsS7PTXgAA6AOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtsS7PTXgAA6AOW.jpg",
+					"url": "https://t.co/91FHX5Wj8z",
+					"display_url": "pic.twitter.com/91FHX5Wj8z",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1070470150053343232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 279,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 426,
+							"h": 279,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 426,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070470145359970300,
+					"id_str": "1070470145359970304",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/DtsS7PTXgAA6AOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtsS7PTXgAA6AOW.jpg",
+					"url": "https://t.co/91FHX5Wj8z",
+					"display_url": "pic.twitter.com/91FHX5Wj8z",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1070470150053343232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 279,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 426,
+							"h": 279,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 426,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7316,
+			"friends_count": 5279,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1527,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"What these athletes have in common is that their sport is important to them and they’re committed to being the best that they can be within the scope of their limitations.\"\n\n#AthleteMindset #MentalHabits #SportsPsychology https://t.co/Z5qFtGnUSG https://t.co/91FHX5Wj8z"
+	},
+	{
+		"created_at": "Wed Dec 05 11:23:43 +0000 2018",
+		"id": 1070277531746607100,
+		"id_str": "1070277531746607104",
+		"full_text": "\"Always do your best. What you plant now, you will harvest later.\" - Og Mandino, bestselling American Author of \"The Greatest Salesman in the World\". ⠀\n⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdai… https://t.co/xBGeXd99M1 https://t.co/O6vCsilTNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quote",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "qotd",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "quoteoftheday",
+					"indices": [
+						177,
+						191
+					]
+				},
+				{
+					"text": "inspire",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"text": "inspiring",
+					"indices": [
+						201,
+						211
+					]
+				},
+				{
+					"text": "motivation",
+					"indices": [
+						212,
+						223
+					]
+				},
+				{
+					"text": "quotestoliveby",
+					"indices": [
+						224,
+						239
+					]
+				},
+				{
+					"text": "quotesdai",
+					"indices": [
+						240,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xBGeXd99M1",
+					"expanded_url": "https://www.instagram.com/p/BrAMp4eB0Gb/",
+					"display_url": "instagram.com/p/BrAMp4eB0Gb/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070277530333130800,
+					"id_str": "1070277530333130752",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DtpjvkaWsAAUutz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtpjvkaWsAAUutz.jpg",
+					"url": "https://t.co/O6vCsilTNZ",
+					"display_url": "pic.twitter.com/O6vCsilTNZ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1070277531746607104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070277530333130800,
+					"id_str": "1070277530333130752",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DtpjvkaWsAAUutz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtpjvkaWsAAUutz.jpg",
+					"url": "https://t.co/O6vCsilTNZ",
+					"display_url": "pic.twitter.com/O6vCsilTNZ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1070277531746607104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7316,
+			"friends_count": 5279,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1527,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Always do your best. What you plant now, you will harvest later.\" - Og Mandino, bestselling American Author of \"The Greatest Salesman in the World\". ⠀\n⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdai… https://t.co/xBGeXd99M1 https://t.co/O6vCsilTNZ"
+	},
+	{
 		"created_at": "Wed Dec 05 00:37:02 +0000 2018",
 		"id": 1070114790796902400,
 		"id_str": "1070114790796902400",
