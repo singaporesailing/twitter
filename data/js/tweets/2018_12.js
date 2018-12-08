@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 07 14:22:45 +0000 2018",
+		"id": 1071047363064553500,
+		"id_str": "1071047363064553472",
+		"full_text": "Singapore’s youngest ever Asian Games medallist Raynn Kwok showing off his roll tacks in a swimming pool 😂\n\n#optimist #optimistsailing #opti #optisailing #asiangames https://t.co/xdV16fvbd6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "optimist",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "optimistsailing",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "opti",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "optisailing",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "asiangames",
+					"indices": [
+						154,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1071047319175348200,
+					"id_str": "1071047319175348228",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1071047319175348228/pu/img/ov9wAO9uelVI8p8X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1071047319175348228/pu/img/ov9wAO9uelVI8p8X.jpg",
+					"url": "https://t.co/xdV16fvbd6",
+					"display_url": "pic.twitter.com/xdV16fvbd6",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1071047363064553472/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 464,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 464,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071047319175348200,
+					"id_str": "1071047319175348228",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1071047319175348228/pu/img/ov9wAO9uelVI8p8X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1071047319175348228/pu/img/ov9wAO9uelVI8p8X.jpg",
+					"url": "https://t.co/xdV16fvbd6",
+					"display_url": "pic.twitter.com/xdV16fvbd6",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1071047363064553472/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 464,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 464,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							29,
+							53
+						],
+						"duration_millis": 14725,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1071047319175348228/pu/vid/320x584/LUpd5FA04P3KIpgB.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1071047319175348228/pu/vid/464x848/FL7bVmKsmwCDRt3Z.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1071047319175348228/pu/pl/pE6Qu5uzfkrEX0bQ.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7312,
+			"friends_count": 4290,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1529,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Singapore’s youngest ever Asian Games medallist Raynn Kwok showing off his roll tacks in a swimming pool 😂\n\n#optimist #optimistsailing #opti #optisailing #asiangames https://t.co/xdV16fvbd6"
+	},
+	{
+		"created_at": "Fri Dec 07 11:30:06 +0000 2018",
+		"id": 1071003913921486800,
+		"id_str": "1071003913921486854",
+		"full_text": "Places are being snapped up as you are reading so, register now!\n 👉 https://t.co/NmyEy3I4iF 👈\n\n#SailforSG #KidsActivities #SGWeekend #EastCoastPark #ActiveSG https://t.co/m9EFhLKR0F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailforSG",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "KidsActivities",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"text": "SGWeekend",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "EastCoastPark",
+					"indices": [
+						133,
+						147
+					]
+				},
+				{
+					"text": "ActiveSG",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NmyEy3I4iF",
+					"expanded_url": "http://bit.ly/oj-2019",
+					"display_url": "bit.ly/oj-2019",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1071003908649222100,
+					"id_str": "1071003908649222145",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/Dtz4YWgXgAEv4Ys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dtz4YWgXgAEv4Ys.jpg",
+					"url": "https://t.co/m9EFhLKR0F",
+					"display_url": "pic.twitter.com/m9EFhLKR0F",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1071003913921486854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071003908649222100,
+					"id_str": "1071003908649222145",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/Dtz4YWgXgAEv4Ys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dtz4YWgXgAEv4Ys.jpg",
+					"url": "https://t.co/m9EFhLKR0F",
+					"display_url": "pic.twitter.com/m9EFhLKR0F",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1071003913921486854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7312,
+			"friends_count": 4290,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1529,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Places are being snapped up as you are reading so, register now!\n 👉 https://t.co/NmyEy3I4iF 👈\n\n#SailforSG #KidsActivities #SGWeekend #EastCoastPark #ActiveSG https://t.co/m9EFhLKR0F"
+	},
+	{
 		"created_at": "Thu Dec 06 00:09:06 +0000 2018",
 		"id": 1070470150053343200,
 		"id_str": "1070470150053343232",
