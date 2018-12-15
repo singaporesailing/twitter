@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 15 02:23:35 +0000 2018",
+		"id": 1073765484930035700,
+		"id_str": "1073765484930035712",
+		"full_text": "Y? Because we say so! Check out yesterday's post for a chance to win a scrumilicious dinner for two at @RafflesMarina as well as a @727sailbagssingapore document holder! \nNext up! 2 lucky winners stand a chance to win a yummy cheesecake from @catandthefi… https://t.co/MFMMpxQZSs https://t.co/aSJG7scnEw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rafflesmarina",
+					"name": "Liam O'Brien",
+					"id": 68718015,
+					"id_str": "68718015",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MFMMpxQZSs",
+					"expanded_url": "https://www.instagram.com/p/BrY_y1yCSho/",
+					"display_url": "instagram.com/p/BrY_y1yCSho/",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073765483910815700,
+					"id_str": "1073765483910815744",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DubIBMCUYAAmlCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DubIBMCUYAAmlCL.jpg",
+					"url": "https://t.co/aSJG7scnEw",
+					"display_url": "pic.twitter.com/aSJG7scnEw",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1073765484930035712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073765483910815700,
+					"id_str": "1073765483910815744",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DubIBMCUYAAmlCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DubIBMCUYAAmlCL.jpg",
+					"url": "https://t.co/aSJG7scnEw",
+					"display_url": "pic.twitter.com/aSJG7scnEw",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1073765484930035712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7314,
+			"friends_count": 4568,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1539,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Y? Because we say so! Check out yesterday's post for a chance to win a scrumilicious dinner for two at @RafflesMarina as well as a @727sailbagssingapore document holder! \nNext up! 2 lucky winners stand a chance to win a yummy cheesecake from @catandthefi… https://t.co/MFMMpxQZSs https://t.co/aSJG7scnEw"
+	},
+	{
+		"created_at": "Fri Dec 14 11:30:09 +0000 2018",
+		"id": 1073540644524691500,
+		"id_str": "1073540644524691457",
+		"full_text": "Places are being snapped up as you are reading so, register now!\n 👉 https://t.co/NmyEy3I4iF 👈\n\n#SailforSG #KidsActivities #SGWeekend #EastCoastPark #ActiveSG https://t.co/YwWIESLY3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailforSG",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "KidsActivities",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"text": "SGWeekend",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "EastCoastPark",
+					"indices": [
+						133,
+						147
+					]
+				},
+				{
+					"text": "ActiveSG",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NmyEy3I4iF",
+					"expanded_url": "http://bit.ly/oj-2019",
+					"display_url": "bit.ly/oj-2019",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073540637885165600,
+					"id_str": "1073540637885165568",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DuX7hbUXcAA9l9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuX7hbUXcAA9l9x.jpg",
+					"url": "https://t.co/YwWIESLY3E",
+					"display_url": "pic.twitter.com/YwWIESLY3E",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1073540644524691457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073540637885165600,
+					"id_str": "1073540637885165568",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DuX7hbUXcAA9l9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuX7hbUXcAA9l9x.jpg",
+					"url": "https://t.co/YwWIESLY3E",
+					"display_url": "pic.twitter.com/YwWIESLY3E",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1073540644524691457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7314,
+			"friends_count": 4568,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1539,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Places are being snapped up as you are reading so, register now!\n 👉 https://t.co/NmyEy3I4iF 👈\n\n#SailforSG #KidsActivities #SGWeekend #EastCoastPark #ActiveSG https://t.co/YwWIESLY3E"
+	},
+	{
 		"created_at": "Fri Dec 14 00:00:04 +0000 2018",
 		"id": 1073366980298793000,
 		"id_str": "1073366980298792961",
