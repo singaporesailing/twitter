@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 17 02:23:49 +0000 2018",
+		"id": 1074490318245036000,
+		"id_str": "1074490318245036032",
+		"full_text": "Have you checked out the AWESOME prizes we're giving away? \nThere's still time to participate in yesterday's giveaway where 2 lucky winners get to take home $50 Chope @chopesg vouchers! \nAlso stay tuned for tonight's contest where not one, not two, not t… https://t.co/5OuWsM8b4R https://t.co/Q66heSKA0k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChopeSG",
+					"name": "Chope Singapore",
+					"id": 258694058,
+					"id_str": "258694058",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5OuWsM8b4R",
+					"expanded_url": "https://www.instagram.com/p/BreI1VboZET/",
+					"display_url": "instagram.com/p/BreI1VboZET/",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1074490317175447600,
+					"id_str": "1074490317175447554",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DulbQCXW4AIEIi5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DulbQCXW4AIEIi5.jpg",
+					"url": "https://t.co/Q66heSKA0k",
+					"display_url": "pic.twitter.com/Q66heSKA0k",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1074490318245036032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074490317175447600,
+					"id_str": "1074490317175447554",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DulbQCXW4AIEIi5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DulbQCXW4AIEIi5.jpg",
+					"url": "https://t.co/Q66heSKA0k",
+					"display_url": "pic.twitter.com/Q66heSKA0k",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1074490318245036032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7319,
+			"friends_count": 4716,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you checked out the AWESOME prizes we're giving away? \nThere's still time to participate in yesterday's giveaway where 2 lucky winners get to take home $50 Chope @chopesg vouchers! \nAlso stay tuned for tonight's contest where not one, not two, not t… https://t.co/5OuWsM8b4R https://t.co/Q66heSKA0k"
+	},
+	{
+		"created_at": "Sun Dec 16 12:23:39 +0000 2018",
+		"id": 1074278884730916900,
+		"id_str": "1074278884730916864",
+		"full_text": "Day 3/12: The foodie's dream come true! 🎁 THE PRIZE:\nToday we are giving away two sets of $50 Chope [@chopesg] vouchers to two lucky winners! \nChope is the best way to discover new restaurants, book a table with ease, and save with sumptuous deals! \n… https://t.co/Zq3tnAyhEJ https://t.co/8GDk8LU5zf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChopeSG",
+					"name": "Chope Singapore",
+					"id": 258694058,
+					"id_str": "258694058",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zq3tnAyhEJ",
+					"expanded_url": "https://www.instagram.com/p/BrcoxsCAsX0/",
+					"display_url": "instagram.com/p/BrcoxsCAsX0/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1074278883531350000,
+					"id_str": "1074278883531350016",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Duia8-qW4AARW1J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Duia8-qW4AARW1J.jpg",
+					"url": "https://t.co/8GDk8LU5zf",
+					"display_url": "pic.twitter.com/8GDk8LU5zf",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1074278884730916864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074278883531350000,
+					"id_str": "1074278883531350016",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Duia8-qW4AARW1J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Duia8-qW4AARW1J.jpg",
+					"url": "https://t.co/8GDk8LU5zf",
+					"display_url": "pic.twitter.com/8GDk8LU5zf",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1074278884730916864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7319,
+			"friends_count": 4716,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 3/12: The foodie's dream come true! 🎁 THE PRIZE:\nToday we are giving away two sets of $50 Chope [@chopesg] vouchers to two lucky winners! \nChope is the best way to discover new restaurants, book a table with ease, and save with sumptuous deals! \n… https://t.co/Zq3tnAyhEJ https://t.co/8GDk8LU5zf"
+	},
+	{
 		"created_at": "Sat Dec 15 12:24:02 +0000 2018",
 		"id": 1073916593120387100,
 		"id_str": "1073916593120387072",
