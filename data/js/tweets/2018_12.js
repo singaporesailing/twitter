@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 19 12:23:46 +0000 2018",
+		"id": 1075366074600878100,
+		"id_str": "1075366074600878080",
+		"full_text": "Day 6/12: \nJuix Up is giving away the following to two lucky winners! 🎁 THE PRIZE:\nOne Go! Protect Series pack (350ml) each (worth $69):\nBand of Beets: Carrot, Green apple, Beetroot, Lemon, Ginger x 2 bottles\nOrange Army: Orange, Carrot, Cucumber, Ce… https://t.co/K7lmEl74iX https://t.co/HiXh21aJFH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K7lmEl74iX",
+					"expanded_url": "https://www.instagram.com/p/BrkXJljDXOY/",
+					"display_url": "instagram.com/p/BrkXJljDXOY/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1075366073497780200,
+					"id_str": "1075366073497780225",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dux3vw5XgAEdz_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dux3vw5XgAEdz_3.jpg",
+					"url": "https://t.co/HiXh21aJFH",
+					"display_url": "pic.twitter.com/HiXh21aJFH",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1075366074600878080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 649,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 649,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075366073497780200,
+					"id_str": "1075366073497780225",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dux3vw5XgAEdz_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dux3vw5XgAEdz_3.jpg",
+					"url": "https://t.co/HiXh21aJFH",
+					"display_url": "pic.twitter.com/HiXh21aJFH",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1075366074600878080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 649,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 649,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7335,
+			"friends_count": 5133,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1549,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 6/12: \nJuix Up is giving away the following to two lucky winners! 🎁 THE PRIZE:\nOne Go! Protect Series pack (350ml) each (worth $69):\nBand of Beets: Carrot, Green apple, Beetroot, Lemon, Ginger x 2 bottles\nOrange Army: Orange, Carrot, Cucumber, Ce… https://t.co/K7lmEl74iX https://t.co/HiXh21aJFH"
+	},
+	{
+		"created_at": "Wed Dec 19 02:30:24 +0000 2018",
+		"id": 1075216748759023600,
+		"id_str": "1075216748759023616",
+		"full_text": "Zhik is proudly Australian and to celebrate the 2018 Rolex Sydney to Hobart Yacht Race starting on the 26th December 2018, we are offering a massive 50% off sitewide* for one full week, leading up to the start. Tell your friends &amp; don't miss out! https://t.co/rjenA64olF https://t.co/lDXuZzOLSn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rjenA64olF",
+					"expanded_url": "https://www.zhik.com/shop.html",
+					"display_url": "zhik.com/shop.html",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1075216606911881200,
+					"id_str": "1075216606911881216",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/DuvvzqeVYAAZHL-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuvvzqeVYAAZHL-.jpg",
+					"url": "https://t.co/lDXuZzOLSn",
+					"display_url": "pic.twitter.com/lDXuZzOLSn",
+					"expanded_url": "https://twitter.com/zhik/status/1075216748759023616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075216606911881200,
+					"id_str": "1075216606911881216",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/DuvvzqeVYAAZHL-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuvvzqeVYAAZHL-.jpg",
+					"url": "https://t.co/lDXuZzOLSn",
+					"display_url": "pic.twitter.com/lDXuZzOLSn",
+					"expanded_url": "https://twitter.com/zhik/status/1075216748759023616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 156145713,
+			"id_str": "156145713",
+			"name": "Zhik",
+			"screen_name": "zhik",
+			"location": "Sydney",
+			"description": "Zhik - Gear Made for Water.",
+			"url": "http://t.co/QrZraujJbS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QrZraujJbS",
+							"expanded_url": "http://www.zhik.com",
+							"display_url": "zhik.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1680,
+			"friends_count": 250,
+			"listed_count": 22,
+			"created_at": "Wed Jun 16 04:01:12 +0000 2010",
+			"favourites_count": 367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 673,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/509856841853976576/nKRBGf8U_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/509856841853976576/nKRBGf8U_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/156145713/1509949806",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Zhik is proudly Australian and to celebrate the 2018 Rolex Sydney to Hobart Yacht Race starting on the 26th December 2018, we are offering a massive 50% off sitewide* for one full week, leading up to the start. Tell your friends &amp; don't miss out! https://t.co/rjenA64olF https://t.co/lDXuZzOLSn"
+	},
+	{
+		"created_at": "Wed Dec 19 05:15:48 +0000 2018",
+		"id": 1075258375519125500,
+		"id_str": "1075258375519125509",
+		"full_text": "Xmas came early! Enjoy 50% of @zhik for the next 7 days! Shop now 😀 https://t.co/exbmy9Afkj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zhik",
+					"name": "Zhik",
+					"id": 156145713,
+					"id_str": "156145713",
+					"indices": [
+						30,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/exbmy9Afkj",
+					"expanded_url": "https://twitter.com/zhik/status/1075216748759023616",
+					"display_url": "twitter.com/zhik/status/10…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7335,
+			"friends_count": 5133,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1549,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075216748759023600,
+		"quoted_status_id_str": "1075216748759023616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/exbmy9Afkj",
+			"expanded": "https://twitter.com/zhik/status/1075216748759023616",
+			"display": "twitter.com/zhik/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 19 02:30:24 +0000 2018",
+			"id": 1075216748759023600,
+			"id_str": "1075216748759023616",
+			"full_text": "Zhik is proudly Australian and to celebrate the 2018 Rolex Sydney to Hobart Yacht Race starting on the 26th December 2018, we are offering a massive 50% off sitewide* for one full week, leading up to the start. Tell your friends &amp; don't miss out! https://t.co/rjenA64olF https://t.co/lDXuZzOLSn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rjenA64olF",
+						"expanded_url": "https://www.zhik.com/shop.html",
+						"display_url": "zhik.com/shop.html",
+						"indices": [
+							251,
+							274
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1075216606911881200,
+						"id_str": "1075216606911881216",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/DuvvzqeVYAAZHL-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuvvzqeVYAAZHL-.jpg",
+						"url": "https://t.co/lDXuZzOLSn",
+						"display_url": "pic.twitter.com/lDXuZzOLSn",
+						"expanded_url": "https://twitter.com/zhik/status/1075216748759023616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075216606911881200,
+						"id_str": "1075216606911881216",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/DuvvzqeVYAAZHL-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuvvzqeVYAAZHL-.jpg",
+						"url": "https://t.co/lDXuZzOLSn",
+						"display_url": "pic.twitter.com/lDXuZzOLSn",
+						"expanded_url": "https://twitter.com/zhik/status/1075216748759023616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 156145713,
+				"id_str": "156145713",
+				"name": "Zhik",
+				"screen_name": "zhik",
+				"location": "Sydney",
+				"description": "Zhik - Gear Made for Water.",
+				"url": "http://t.co/QrZraujJbS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QrZraujJbS",
+								"expanded_url": "http://www.zhik.com",
+								"display_url": "zhik.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1680,
+				"friends_count": 250,
+				"listed_count": 22,
+				"created_at": "Wed Jun 16 04:01:12 +0000 2010",
+				"favourites_count": 367,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 673,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/509856841853976576/nKRBGf8U_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/509856841853976576/nKRBGf8U_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156145713/1509949806",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Xmas came early! Enjoy 50% of @zhik for the next 7 days! Shop now 😀 https://t.co/exbmy9Afkj"
+	},
+	{
 		"created_at": "Wed Dec 19 02:30:24 +0000 2018",
 		"id": 1075216748759023600,
 		"id_str": "1075216748759023616",
