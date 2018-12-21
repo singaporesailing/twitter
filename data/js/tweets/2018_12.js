@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 21 02:23:46 +0000 2018",
+		"id": 1075939856059195400,
+		"id_str": "1075939856059195392",
+		"full_text": "Excited about our #SSF12DaysofXmasGiveaway? We are! Thanks to our amazing sponsors and partners for the wonderful prizes! \nWe're more than halfway through and while last week we satisfied the foodies, this week we will be hoping to please the fitfam! \nIf… https://t.co/01LtFtrNbD https://t.co/lBGaAjGbYT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SSF12DaysofXmasGiveaway",
+					"indices": [
+						18,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/01LtFtrNbD",
+					"expanded_url": "https://www.instagram.com/p/Brodt0dgUS2/",
+					"display_url": "instagram.com/p/Brodt0dgUS2/",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1075939854859595800,
+					"id_str": "1075939854859595776",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6BmPCXcAAb2wY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6BmPCXcAAb2wY.jpg",
+					"url": "https://t.co/lBGaAjGbYT",
+					"display_url": "pic.twitter.com/lBGaAjGbYT",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1075939856059195392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075939854859595800,
+					"id_str": "1075939854859595776",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6BmPCXcAAb2wY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6BmPCXcAAb2wY.jpg",
+					"url": "https://t.co/lBGaAjGbYT",
+					"display_url": "pic.twitter.com/lBGaAjGbYT",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1075939856059195392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7342,
+			"friends_count": 5331,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1551,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited about our #SSF12DaysofXmasGiveaway? We are! Thanks to our amazing sponsors and partners for the wonderful prizes! \nWe're more than halfway through and while last week we satisfied the foodies, this week we will be hoping to please the fitfam! \nIf… https://t.co/01LtFtrNbD https://t.co/lBGaAjGbYT"
+	},
+	{
+		"created_at": "Thu Dec 20 12:23:48 +0000 2018",
+		"id": 1075728473614938100,
+		"id_str": "1075728473614938113",
+		"full_text": "Day 7/12: Ladies and gentlemen, boys and girls, we hope you've been enjoy our #SSF12DaysofXmasGiveaway! We're now more than halfway through and today, we have a nice giveaway for the sports or fitness fan! 🎁 THE PRIZE:\nTYR Singapore [@tyr_singapore] … https://t.co/PsfCUi8M9Z https://t.co/rKFDndgaHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SSF12DaysofXmasGiveaway",
+					"indices": [
+						78,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PsfCUi8M9Z",
+					"expanded_url": "https://www.instagram.com/p/Brm7-_xjmK8/",
+					"display_url": "instagram.com/p/Brm7-_xjmK8/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1075728472369233900,
+					"id_str": "1075728472369233920",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Du3BWJ5XgAAhBck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du3BWJ5XgAAhBck.jpg",
+					"url": "https://t.co/rKFDndgaHt",
+					"display_url": "pic.twitter.com/rKFDndgaHt",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1075728473614938113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075728472369233900,
+					"id_str": "1075728472369233920",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Du3BWJ5XgAAhBck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du3BWJ5XgAAhBck.jpg",
+					"url": "https://t.co/rKFDndgaHt",
+					"display_url": "pic.twitter.com/rKFDndgaHt",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1075728473614938113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7342,
+			"friends_count": 5331,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1551,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 7/12: Ladies and gentlemen, boys and girls, we hope you've been enjoy our #SSF12DaysofXmasGiveaway! We're now more than halfway through and today, we have a nice giveaway for the sports or fitness fan! 🎁 THE PRIZE:\nTYR Singapore [@tyr_singapore] … https://t.co/PsfCUi8M9Z https://t.co/rKFDndgaHt"
+	},
+	{
 		"created_at": "Wed Dec 19 12:23:46 +0000 2018",
 		"id": 1075366074600878100,
 		"id_str": "1075366074600878080",
