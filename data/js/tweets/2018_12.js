@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 29 00:30:06 +0000 2018",
+		"id": 1078810352551379000,
+		"id_str": "1078810352551378944",
+		"full_text": "Ever wondered what a family sailing holiday will be like? 👀💁 Perhaps after reading this article, you will be planning for your next holiday in 2019. #SailingHoliday #SailingIsLife #ILoveSailing #Passion #SailingIsForEveryone https://t.co/gHvabeYNEF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailingHoliday",
+					"indices": [
+						149,
+						164
+					]
+				},
+				{
+					"text": "SailingIsLife",
+					"indices": [
+						165,
+						179
+					]
+				},
+				{
+					"text": "ILoveSailing",
+					"indices": [
+						180,
+						193
+					]
+				},
+				{
+					"text": "Passion",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "SailingIsForEveryone",
+					"indices": [
+						203,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gHvabeYNEF",
+					"expanded_url": "https://www.my-travelmonkey.com/family-sailing-holiday/",
+					"display_url": "my-travelmonkey.com/family-sailing…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7413,
+			"friends_count": 7502,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered what a family sailing holiday will be like? 👀💁 Perhaps after reading this article, you will be planning for your next holiday in 2019. #SailingHoliday #SailingIsLife #ILoveSailing #Passion #SailingIsForEveryone https://t.co/gHvabeYNEF"
+	},
+	{
+		"created_at": "Fri Dec 28 11:30:05 +0000 2018",
+		"id": 1078614054871150600,
+		"id_str": "1078614054871150592",
+		"full_text": "Places are being snapped up as you are reading so, register now!\n 👉 https://t.co/NmyEy3I4iF 👈\n\n#SailforSG #KidsActivities #SGWeekend #EastCoastPark #ActiveSG https://t.co/UcHOddVMVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailforSG",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "KidsActivities",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"text": "SGWeekend",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "EastCoastPark",
+					"indices": [
+						133,
+						147
+					]
+				},
+				{
+					"text": "ActiveSG",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NmyEy3I4iF",
+					"expanded_url": "http://bit.ly/oj-2019",
+					"display_url": "bit.ly/oj-2019",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1078614048520978400,
+					"id_str": "1078614048520978432",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DvgBwyvWwAAs31X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvgBwyvWwAAs31X.jpg",
+					"url": "https://t.co/UcHOddVMVN",
+					"display_url": "pic.twitter.com/UcHOddVMVN",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1078614054871150592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078614048520978400,
+					"id_str": "1078614048520978432",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DvgBwyvWwAAs31X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvgBwyvWwAAs31X.jpg",
+					"url": "https://t.co/UcHOddVMVN",
+					"display_url": "pic.twitter.com/UcHOddVMVN",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1078614054871150592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7413,
+			"friends_count": 7502,
+			"listed_count": 39,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Places are being snapped up as you are reading so, register now!\n 👉 https://t.co/NmyEy3I4iF 👈\n\n#SailforSG #KidsActivities #SGWeekend #EastCoastPark #ActiveSG https://t.co/UcHOddVMVN"
+	},
+	{
 		"created_at": "Thu Dec 27 00:30:03 +0000 2018",
 		"id": 1078085566175105000,
 		"id_str": "1078085566175105024",
