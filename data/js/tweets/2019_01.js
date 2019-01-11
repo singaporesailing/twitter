@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 00:30:05 +0000 2019",
+		"id": 1083521394045083600,
+		"id_str": "1083521394045083649",
+		"full_text": "Ever wondered where is the best place to sail? Two of them are Thailand and Australia, which are countries that our sailors frequent! Sailing is definitely one of the great joys of travel. 😄 #SailingAllOverTheWorld #FeelGoodFriday #FridayFunday https://t.co/WQmt94dz6A https://t.co/lKNZ5KAymC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailingAllOverTheWorld",
+					"indices": [
+						191,
+						214
+					]
+				},
+				{
+					"text": "FeelGoodFriday",
+					"indices": [
+						215,
+						230
+					]
+				},
+				{
+					"text": "FridayFunday",
+					"indices": [
+						231,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WQmt94dz6A",
+					"expanded_url": "https://www.gadventures.com/blog/best-sailing-destinations-in-the-world/",
+					"display_url": "gadventures.com/blog/best-sail…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083521385140551700,
+					"id_str": "1083521385140551681",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwlw9YPXgAEXVZx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwlw9YPXgAEXVZx.jpg",
+					"url": "https://t.co/lKNZ5KAymC",
+					"display_url": "pic.twitter.com/lKNZ5KAymC",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1083521394045083649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083521385140551700,
+					"id_str": "1083521385140551681",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwlw9YPXgAEXVZx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwlw9YPXgAEXVZx.jpg",
+					"url": "https://t.co/lKNZ5KAymC",
+					"display_url": "pic.twitter.com/lKNZ5KAymC",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1083521394045083649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7474,
+			"friends_count": 6107,
+			"listed_count": 40,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1579,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered where is the best place to sail? Two of them are Thailand and Australia, which are countries that our sailors frequent! Sailing is definitely one of the great joys of travel. 😄 #SailingAllOverTheWorld #FeelGoodFriday #FridayFunday https://t.co/WQmt94dz6A https://t.co/lKNZ5KAymC"
+	},
+	{
 		"created_at": "Thu Jan 10 03:56:32 +0000 2019",
 		"id": 1083210960007876600,
 		"id_str": "1083210960007876608",
