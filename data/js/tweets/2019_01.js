@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 00:30:08 +0000 2019",
+		"id": 1086420507501752300,
+		"id_str": "1086420507501752320",
+		"full_text": "Ever wondered what it is like to sail around the world? A lady took a leap of faith to sail around the world with her husband. Let us know if you would ever try this out! ⛵ #SailingAllOverTheWorld #SailingIsLife #SailingSaturday #SocialSaturday https://t.co/gVQvMs0JD2 https://t.co/PCcsptgKDk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailingAllOverTheWorld",
+					"indices": [
+						173,
+						196
+					]
+				},
+				{
+					"text": "SailingIsLife",
+					"indices": [
+						197,
+						211
+					]
+				},
+				{
+					"text": "SailingSaturday",
+					"indices": [
+						212,
+						228
+					]
+				},
+				{
+					"text": "SocialSaturday",
+					"indices": [
+						229,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gVQvMs0JD2",
+					"expanded_url": "https://edition.cnn.com/2018/04/17/sport/sailing-around-the-world-kellie-pollock-spt/index.html",
+					"display_url": "edition.cnn.com/2018/04/17/spo…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086420502946684900,
+					"id_str": "1086420502946684928",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/DxO9sPrWoAAnPXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxO9sPrWoAAnPXz.jpg",
+					"url": "https://t.co/PCcsptgKDk",
+					"display_url": "pic.twitter.com/PCcsptgKDk",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1086420507501752320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086420502946684900,
+					"id_str": "1086420502946684928",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/DxO9sPrWoAAnPXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxO9sPrWoAAnPXz.jpg",
+					"url": "https://t.co/PCcsptgKDk",
+					"display_url": "pic.twitter.com/PCcsptgKDk",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1086420507501752320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7511,
+			"friends_count": 5404,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1589,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered what it is like to sail around the world? A lady took a leap of faith to sail around the world with her husband. Let us know if you would ever try this out! ⛵ #SailingAllOverTheWorld #SailingIsLife #SailingSaturday #SocialSaturday https://t.co/gVQvMs0JD2 https://t.co/PCcsptgKDk"
+	},
+	{
 		"created_at": "Thu Jan 17 23:24:17 +0000 2019",
 		"id": 1086041548045934600,
 		"id_str": "1086041548045934592",
