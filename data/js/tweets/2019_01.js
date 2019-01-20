@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 11:25:54 +0000 2019",
+		"id": 1086585536872136700,
+		"id_str": "1086847738761830401",
+		"full_text": "Another amazing Saturday afternoon for a sailing experience with some of our members. Thank you SingaporeSailing for the opportunity. — feeling fantastic at Customs house Pontoon https://t.co/q7VKTozfJv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q7VKTozfJv",
+					"expanded_url": "https://www.facebook.com/89904825473/posts/10155801731400474/",
+					"display_url": "facebook.com/89904825473/po…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1279966675,
+			"id_str": "1279966675",
+			"name": "BCF SG",
+			"screen_name": "bcfsg",
+			"location": "5 Stadium Walk, 04-03, S397693",
+			"description": "Eradicating Breast Cancer as a Life-Threatening Disease",
+			"url": "https://t.co/nvx4KsxusZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nvx4KsxusZ",
+							"expanded_url": "http://www.bcf.org.sg",
+							"display_url": "bcf.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45,
+			"friends_count": 23,
+			"listed_count": 5,
+			"created_at": "Tue Mar 19 09:14:19 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583446221127225344/1K-NRA00_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583446221127225344/1K-NRA00_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1279966675/1426583456",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another amazing Saturday afternoon for a sailing experience with some of our members. Thank you SingaporeSailing for the opportunity. — feeling fantastic at Customs house Pontoon https://t.co/q7VKTozfJv"
+	},
+	{
 		"created_at": "Sat Jan 19 00:30:08 +0000 2019",
 		"id": 1086420507501752300,
 		"id_str": "1086420507501752320",
