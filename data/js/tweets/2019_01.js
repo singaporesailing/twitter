@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 21 04:23:42 +0000 2019",
+		"id": 1087204063060607000,
+		"id_str": "1087204063060606976",
+		"full_text": "A positive attitude gives you power over your circumstances instead of your circumstances having power over you.⠀\n⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotes… https://t.co/IXIwd824gr https://t.co/KupcG8CfCX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quote",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "qotd",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "quoteoftheday",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"text": "inspire",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "inspiring",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "motivation",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "quotestoliveby",
+					"indices": [
+						186,
+						201
+					]
+				},
+				{
+					"text": "quotesdaily",
+					"indices": [
+						202,
+						214
+					]
+				},
+				{
+					"text": "quotesoftheday",
+					"indices": [
+						215,
+						230
+					]
+				},
+				{
+					"text": "instaquote",
+					"indices": [
+						231,
+						242
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						243,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IXIwd824gr",
+					"expanded_url": "https://www.instagram.com/p/Bs4dhK1hM0i/",
+					"display_url": "instagram.com/p/Bs4dhK1hM0i/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087204061999444000,
+					"id_str": "1087204061999443969",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DxaGVYnWsAE_5kd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxaGVYnWsAE_5kd.jpg",
+					"url": "https://t.co/KupcG8CfCX",
+					"display_url": "pic.twitter.com/KupcG8CfCX",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1087204063060606976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087204061999444000,
+					"id_str": "1087204061999443969",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DxaGVYnWsAE_5kd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxaGVYnWsAE_5kd.jpg",
+					"url": "https://t.co/KupcG8CfCX",
+					"display_url": "pic.twitter.com/KupcG8CfCX",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1087204063060606976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7542,
+			"friends_count": 5988,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A positive attitude gives you power over your circumstances instead of your circumstances having power over you.⠀\n⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotes… https://t.co/IXIwd824gr https://t.co/KupcG8CfCX"
+	},
+	{
 		"created_at": "Sat Jan 19 11:25:54 +0000 2019",
 		"id": 1086585536872136700,
 		"id_str": "1086847738761830401",
