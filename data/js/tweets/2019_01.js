@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 00:30:07 +0000 2019",
+		"id": 1088594829876047900,
+		"id_str": "1088594829876047874",
+		"full_text": "#FeelGoodFriday Regardless of whether your current life is better than 2018's, we can only change the present and the future. Simple things like waking up earlier and giving more to others can make you unstoppable! 👊 #BeHappy #BeBright #BeYou https://t.co/plLac0OZw5 https://t.co/eh8Tt7At1O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FeelGoodFriday",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "BeHappy",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"text": "BeBright",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"text": "BeYou",
+					"indices": [
+						236,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/plLac0OZw5",
+					"expanded_url": "https://medium.com/thrive-global/30-behaviors-that-will-make-you-unstoppable-in-2019-e42c92cbcda9?fbclid=IwAR1pHXX43ZOJM5QtbirVejyqb2GCmzQRDNya7L1JbdzBxR-5F5cuLA_ZJ14",
+					"display_url": "medium.com/thrive-global/…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088594825501462500,
+					"id_str": "1088594825501462533",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxt3OeZX0AUoRnf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxt3OeZX0AUoRnf.jpg",
+					"url": "https://t.co/eh8Tt7At1O",
+					"display_url": "pic.twitter.com/eh8Tt7At1O",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1088594829876047874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088594825501462500,
+					"id_str": "1088594825501462533",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxt3OeZX0AUoRnf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxt3OeZX0AUoRnf.jpg",
+					"url": "https://t.co/eh8Tt7At1O",
+					"display_url": "pic.twitter.com/eh8Tt7At1O",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1088594829876047874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7554,
+			"friends_count": 5021,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1596,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FeelGoodFriday Regardless of whether your current life is better than 2018's, we can only change the present and the future. Simple things like waking up earlier and giving more to others can make you unstoppable! 👊 #BeHappy #BeBright #BeYou https://t.co/plLac0OZw5 https://t.co/eh8Tt7At1O"
+	},
+	{
 		"created_at": "Wed Jan 23 11:49:05 +0000 2019",
 		"id": 1088040921286037500,
 		"id_str": "1088040921286037505",
