@@ -1,6 +1,821 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 03:26:23 +0000 2019",
+		"id": 1089001578562936800,
+		"id_str": "1089001578562936832",
+		"full_text": "After Day One of the SB20 Grand Slam, Glasgow Kiss lead the way with Team Edbut close behind! \nAll are excited for another great day of racing at @ONE15MarinaClub today! #SB20GrandSlam \n\nFull Day One Race Report can be found here: https://t.co/bKxV4mUaX7 https://t.co/pAvcO5Swag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SB20GrandSlam",
+					"indices": [
+						170,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ONE15MarinaClub",
+					"name": "ONE15 Marina Club",
+					"id": 1406448835,
+					"id_str": "1406448835",
+					"indices": [
+						146,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bKxV4mUaX7",
+					"expanded_url": "https://www.facebook.com/164808043547533/posts/2442497742445207",
+					"display_url": "facebook.com/16480804354753…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089001571650699300,
+					"id_str": "1089001571650699266",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/DxzpKN4VAAIRaC2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxzpKN4VAAIRaC2.jpg",
+					"url": "https://t.co/pAvcO5Swag",
+					"display_url": "pic.twitter.com/pAvcO5Swag",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1089001578562936832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089001571650699300,
+					"id_str": "1089001571650699266",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/DxzpKN4VAAIRaC2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxzpKN4VAAIRaC2.jpg",
+					"url": "https://t.co/pAvcO5Swag",
+					"display_url": "pic.twitter.com/pAvcO5Swag",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1089001578562936832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7561,
+			"friends_count": 5173,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After Day One of the SB20 Grand Slam, Glasgow Kiss lead the way with Team Edbut close behind! \nAll are excited for another great day of racing at @ONE15MarinaClub today! #SB20GrandSlam \n\nFull Day One Race Report can be found here: https://t.co/bKxV4mUaX7 https://t.co/pAvcO5Swag"
+	},
+	{
+		"created_at": "Thu Jan 24 15:24:47 +0000 2019",
+		"id": 1088457591787642900,
+		"id_str": "1088929034380013569",
+		"full_text": "The SB20 Asian Grand Slam &amp; Pacific Classic, one of the greatest Asian and International sailing events,  is coming up tomorrow! 😱\nAre you going to miss it?\n\n@ONE15MarinaClub @SB20Class @SingaporeSail \n\nFollow the live tracking via TracTrac :https://t.co/3vuElbM2CA https://t.co/IV41N76XOy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ONE15MarinaClub",
+					"name": "ONE15 Marina Club",
+					"id": 1406448835,
+					"id_str": "1406448835",
+					"indices": [
+						162,
+						178
+					]
+				},
+				{
+					"screen_name": "SB20Class",
+					"name": "SB20",
+					"id": 931832610,
+					"id_str": "931832610",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						190,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3vuElbM2CA",
+					"expanded_url": "https://bit.ly/2CFvgOd",
+					"display_url": "bit.ly/2CFvgOd",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088457381330116600,
+					"id_str": "1088457381330116608",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxr6OK9VYAAGNuM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxr6OK9VYAAGNuM.jpg",
+					"url": "https://t.co/IV41N76XOy",
+					"display_url": "pic.twitter.com/IV41N76XOy",
+					"expanded_url": "https://twitter.com/tractraclive/status/1088457591787642887/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088457381330116600,
+					"id_str": "1088457381330116608",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxr6OK9VYAAGNuM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxr6OK9VYAAGNuM.jpg",
+					"url": "https://t.co/IV41N76XOy",
+					"display_url": "pic.twitter.com/IV41N76XOy",
+					"expanded_url": "https://twitter.com/tractraclive/status/1088457591787642887/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088457473994813400,
+					"id_str": "1088457473994813441",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxr6TkKUcAEB9Oa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxr6TkKUcAEB9Oa.jpg",
+					"url": "https://t.co/IV41N76XOy",
+					"display_url": "pic.twitter.com/IV41N76XOy",
+					"expanded_url": "https://twitter.com/tractraclive/status/1088457591787642887/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088457517779247100,
+					"id_str": "1088457517779247105",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxr6WHRV4AE2V-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxr6WHRV4AE2V-V.jpg",
+					"url": "https://t.co/IV41N76XOy",
+					"display_url": "pic.twitter.com/IV41N76XOy",
+					"expanded_url": "https://twitter.com/tractraclive/status/1088457591787642887/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088457569914388500,
+					"id_str": "1088457569914388480",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxr6ZJfVAAAKcJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxr6ZJfVAAAKcJw.jpg",
+					"url": "https://t.co/IV41N76XOy",
+					"display_url": "pic.twitter.com/IV41N76XOy",
+					"expanded_url": "https://twitter.com/tractraclive/status/1088457591787642887/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125986164,
+			"id_str": "125986164",
+			"name": "TracTrac",
+			"screen_name": "tractraclive",
+			"location": "Denmark",
+			"description": "Be the first to know when tracking is live on TracTrac. \r\n\r\nGet updates on all live tracking events by following  TracTrac on Twitter.",
+			"url": "http://t.co/6sTOfeqXiw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6sTOfeqXiw",
+							"expanded_url": "http://www.tractrac.com",
+							"display_url": "tractrac.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 705,
+			"friends_count": 57,
+			"listed_count": 4,
+			"created_at": "Wed Mar 24 13:49:12 +0000 2010",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 487,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/805127008/tractrac_icon_w_text2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/805127008/tractrac_icon_w_text2_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The SB20 Asian Grand Slam &amp; Pacific Classic, one of the greatest Asian and International sailing events,  is coming up tomorrow! 😱\nAre you going to miss it?\n\n@ONE15MarinaClub @SB20Class @SingaporeSail \n\nFollow the live tracking via TracTrac :https://t.co/3vuElbM2CA https://t.co/IV41N76XOy"
+	},
+	{
+		"created_at": "Fri Jan 25 22:37:38 +0000 2019",
+		"id": 1088928910283202600,
+		"id_str": "1088928910283202560",
+		"full_text": "We also have staff (ex-sailors) that have been with us a long time. \nSherman Cheng, Coach\nPei Ming, General Manager\nTerence Koh, High performance\nand our National Sailing Centre!\n#10yearchallenge: Staff edition! https://t.co/VGmFXmz351",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "10yearchallenge",
+					"indices": [
+						179,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088928899600248800,
+					"id_str": "1088928899600248832",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DxynEJZUcAAdDMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxynEJZUcAAdDMn.jpg",
+					"url": "https://t.co/VGmFXmz351",
+					"display_url": "pic.twitter.com/VGmFXmz351",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1088928910283202560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088928899600248800,
+					"id_str": "1088928899600248832",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DxynEJZUcAAdDMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxynEJZUcAAdDMn.jpg",
+					"url": "https://t.co/VGmFXmz351",
+					"display_url": "pic.twitter.com/VGmFXmz351",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1088928910283202560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088928899499618300,
+					"id_str": "1088928899499618304",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DxynEJBU8AAbBly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxynEJBU8AAbBly.jpg",
+					"url": "https://t.co/VGmFXmz351",
+					"display_url": "pic.twitter.com/VGmFXmz351",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1088928910283202560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088928899528937500,
+					"id_str": "1088928899528937472",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DxynEJIUUAAnXlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxynEJIUUAAnXlM.jpg",
+					"url": "https://t.co/VGmFXmz351",
+					"display_url": "pic.twitter.com/VGmFXmz351",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1088928910283202560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088928899570970600,
+					"id_str": "1088928899570970624",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DxynEJSVsAAoMDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxynEJSVsAAoMDK.jpg",
+					"url": "https://t.co/VGmFXmz351",
+					"display_url": "pic.twitter.com/VGmFXmz351",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1088928910283202560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7561,
+			"friends_count": 5173,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We also have staff (ex-sailors) that have been with us a long time. \nSherman Cheng, Coach\nPei Ming, General Manager\nTerence Koh, High performance\nand our National Sailing Centre!\n#10yearchallenge: Staff edition! https://t.co/VGmFXmz351"
+	},
+	{
 		"created_at": "Fri Jan 25 00:30:07 +0000 2019",
 		"id": 1088594829876047900,
 		"id_str": "1088594829876047874",
