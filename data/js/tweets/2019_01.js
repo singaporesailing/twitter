@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 00:31:11 +0000 2019",
+		"id": 1090044652592472000,
+		"id_str": "1090044652592472064",
+		"full_text": "Fun Fact: Did you know that people who eat spicy food tend to live longer? \n\nEver wondered if there is a food that lasts forever? Hint: It starts with the letter \"H\". 😏\n\n#FoodFacts #NutritiousFood #HealthyTuesday #HealthyBody #DidYouKnow? https://t.co/MrbvYzdEtC https://t.co/cwKJtcz3QJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FoodFacts",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "NutritiousFood",
+					"indices": [
+						181,
+						196
+					]
+				},
+				{
+					"text": "HealthyTuesday",
+					"indices": [
+						197,
+						212
+					]
+				},
+				{
+					"text": "HealthyBody",
+					"indices": [
+						213,
+						225
+					]
+				},
+				{
+					"text": "DidYouKnow",
+					"indices": [
+						226,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MrbvYzdEtC",
+					"expanded_url": "https://www.buzzfeed.com/gretaalvarez/healthy-food-facts",
+					"display_url": "buzzfeed.com/gretaalvarez/h…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1090044648171733000,
+					"id_str": "1090044648171732995",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/DyCd1QuXgAMympy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyCd1QuXgAMympy.jpg",
+					"url": "https://t.co/cwKJtcz3QJ",
+					"display_url": "pic.twitter.com/cwKJtcz3QJ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1090044652592472064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090044648171733000,
+					"id_str": "1090044648171732995",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/DyCd1QuXgAMympy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyCd1QuXgAMympy.jpg",
+					"url": "https://t.co/cwKJtcz3QJ",
+					"display_url": "pic.twitter.com/cwKJtcz3QJ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1090044652592472064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7560,
+			"friends_count": 4961,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fun Fact: Did you know that people who eat spicy food tend to live longer? \n\nEver wondered if there is a food that lasts forever? Hint: It starts with the letter \"H\". 😏\n\n#FoodFacts #NutritiousFood #HealthyTuesday #HealthyBody #DidYouKnow? https://t.co/MrbvYzdEtC https://t.co/cwKJtcz3QJ"
+	},
+	{
+		"created_at": "Mon Jan 28 12:23:45 +0000 2019",
+		"id": 1089861586305585200,
+		"id_str": "1089861586305585153",
+		"full_text": "The worst thing you can do is become cold because of past experiences and ruin your future experiences.\n⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotestagram #li… https://t.co/c3TdvskeMI https://t.co/9ZhXtp8Iym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quote",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "qotd",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "quoteoftheday",
+					"indices": [
+						129,
+						143
+					]
+				},
+				{
+					"text": "inspire",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "inspiring",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "motivation",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "quotestoliveby",
+					"indices": [
+						176,
+						191
+					]
+				},
+				{
+					"text": "quotesdaily",
+					"indices": [
+						192,
+						204
+					]
+				},
+				{
+					"text": "quotesoftheday",
+					"indices": [
+						205,
+						220
+					]
+				},
+				{
+					"text": "instaquote",
+					"indices": [
+						221,
+						232
+					]
+				},
+				{
+					"text": "quotestagram",
+					"indices": [
+						233,
+						246
+					]
+				},
+				{
+					"text": "li",
+					"indices": [
+						247,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c3TdvskeMI",
+					"expanded_url": "https://www.instagram.com/p/BtLY_FchrYS/",
+					"display_url": "instagram.com/p/BtLY_FchrYS/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089861585215111200,
+					"id_str": "1089861585215111174",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx_3VmEXQAYbSfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx_3VmEXQAYbSfA.jpg",
+					"url": "https://t.co/9ZhXtp8Iym",
+					"display_url": "pic.twitter.com/9ZhXtp8Iym",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1089861586305585153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089861585215111200,
+					"id_str": "1089861585215111174",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx_3VmEXQAYbSfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx_3VmEXQAYbSfA.jpg",
+					"url": "https://t.co/9ZhXtp8Iym",
+					"display_url": "pic.twitter.com/9ZhXtp8Iym",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1089861586305585153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7560,
+			"friends_count": 4961,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The worst thing you can do is become cold because of past experiences and ruin your future experiences.\n⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotestagram #li… https://t.co/c3TdvskeMI https://t.co/9ZhXtp8Iym"
+	},
+	{
 		"created_at": "Sun Jan 27 05:21:08 +0000 2019",
 		"id": 1089392843313934300,
 		"id_str": "1089392843313934336",
