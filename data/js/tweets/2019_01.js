@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 11:00:31 +0000 2019",
+		"id": 1090203026411962400,
+		"id_str": "1090203026411962368",
+		"full_text": "Singapore will host a sailing world championships for the first time, after One15 Marina Sentosa Cove Singapore announced yesterday that it has secured the hosting rights for the SB20 World Championships 2021. 👏 https://t.co/vkiDxMnqKM https://t.co/jdxrr974oZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vkiDxMnqKM",
+					"expanded_url": "https://www.straitstimes.com/sport/singapore-to-host-sb20-world-championships",
+					"display_url": "straitstimes.com/sport/singapor…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1090203022175752200,
+					"id_str": "1090203022175752193",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/DyEt313X0AEdG3R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyEt313X0AEdG3R.jpg",
+					"url": "https://t.co/jdxrr974oZ",
+					"display_url": "pic.twitter.com/jdxrr974oZ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1090203026411962368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 763,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 763,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090203022175752200,
+					"id_str": "1090203022175752193",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/DyEt313X0AEdG3R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyEt313X0AEdG3R.jpg",
+					"url": "https://t.co/jdxrr974oZ",
+					"display_url": "pic.twitter.com/jdxrr974oZ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1090203026411962368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 763,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 763,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7558,
+			"friends_count": 4962,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1607,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Singapore will host a sailing world championships for the first time, after One15 Marina Sentosa Cove Singapore announced yesterday that it has secured the hosting rights for the SB20 World Championships 2021. 👏 https://t.co/vkiDxMnqKM https://t.co/jdxrr974oZ"
+	},
+	{
 		"created_at": "Tue Jan 29 00:31:11 +0000 2019",
 		"id": 1090044652592472000,
 		"id_str": "1090044652592472064",
