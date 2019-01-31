@@ -1,6 +1,577 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 31 04:45:48 +0000 2019",
+		"id": 1090833501966950400,
+		"id_str": "1090833501966950400",
+		"full_text": "Ever wondered what a sailor sees during a race? Check out this 360 video to find out:\n\nhttps://t.co/jko3oGGBAu \n\n#SB20 #SB20GrandSlam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SB20",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "SB20GrandSlam",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jko3oGGBAu",
+					"expanded_url": "https://www.youtube.com/watch?v=oC_JI_1zqY0&t=5s",
+					"display_url": "youtube.com/watch?v=oC_JI_…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7549,
+			"friends_count": 4966,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered what a sailor sees during a race? Check out this 360 video to find out:\n\nhttps://t.co/jko3oGGBAu \n\n#SB20 #SB20GrandSlam"
+	},
+	{
+		"created_at": "Thu Jan 31 04:22:55 +0000 2019",
+		"id": 1090827743246245900,
+		"id_str": "1090827743246245888",
+		"full_text": "The SB20 Grand Slam Regatta took place over the last weekend at @ONE15MarinaClub, featuring 24 teams from 8 countries.\n\nCheck out the highlights of the event and relive the excitement!\n\n@SB20Class @SingaporeSail \n#SB20 #SB20GrandSlam https://t.co/O3Gt22N15M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SB20",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "SB20GrandSlam",
+					"indices": [
+						219,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ONE15MarinaClub",
+					"name": "ONE15 Marina Club",
+					"id": 1406448835,
+					"id_str": "1406448835",
+					"indices": [
+						64,
+						80
+					]
+				},
+				{
+					"screen_name": "SB20Class",
+					"name": "SB20",
+					"id": 931832610,
+					"id_str": "931832610",
+					"indices": [
+						186,
+						196
+					]
+				},
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						197,
+						211
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090826438998016000,
+					"id_str": "1090826438998016006",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1090826438998016006/pu/img/RecyPvnRvLv7k6cC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1090826438998016006/pu/img/RecyPvnRvLv7k6cC.jpg",
+					"url": "https://t.co/O3Gt22N15M",
+					"display_url": "pic.twitter.com/O3Gt22N15M",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1090827743246245888/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090826438998016000,
+					"id_str": "1090826438998016006",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1090826438998016006/pu/img/RecyPvnRvLv7k6cC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1090826438998016006/pu/img/RecyPvnRvLv7k6cC.jpg",
+					"url": "https://t.co/O3Gt22N15M",
+					"display_url": "pic.twitter.com/O3Gt22N15M",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1090827743246245888/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1090826438998016006/pu/vid/640x360/RXZ5NF2WI3loSjlm.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1090826438998016006/pu/vid/1280x720/hhFqfWNRmYKKvj_z.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1090826438998016006/pu/pl/bhdg9Q43vCnH8MAN.m3u8?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1090826438998016006/pu/vid/320x180/LxBj3K2G6eLbt5x3.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7549,
+			"friends_count": 4966,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The SB20 Grand Slam Regatta took place over the last weekend at @ONE15MarinaClub, featuring 24 teams from 8 countries.\n\nCheck out the highlights of the event and relive the excitement!\n\n@SB20Class @SingaporeSail \n#SB20 #SB20GrandSlam https://t.co/O3Gt22N15M"
+	},
+	{
+		"created_at": "Thu Jan 31 00:30:06 +0000 2019",
+		"id": 1090769155970740200,
+		"id_str": "1090769155970740225",
+		"full_text": "We are constantly searching for things we can't get and neglecting what we have. Let's all take a step back and be more grateful in life. We are keen to know what you have been grateful for in the last 30 days! 😌 #GratefulnessIsKey #ThankfulThursday https://t.co/eO9q853auc https://t.co/slzfP7GSH3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GratefulnessIsKey",
+					"indices": [
+						213,
+						231
+					]
+				},
+				{
+					"text": "ThankfulThursday",
+					"indices": [
+						232,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eO9q853auc",
+					"expanded_url": "https://www.lifehack.org/articles/communication/10-tips-more-grateful-life.html",
+					"display_url": "lifehack.org/articles/commu…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1090769151797461000,
+					"id_str": "1090769151797460992",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DyMww7DXgAAFIQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyMww7DXgAAFIQv.jpg",
+					"url": "https://t.co/slzfP7GSH3",
+					"display_url": "pic.twitter.com/slzfP7GSH3",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1090769155970740225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090769151797461000,
+					"id_str": "1090769151797460992",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DyMww7DXgAAFIQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyMww7DXgAAFIQv.jpg",
+					"url": "https://t.co/slzfP7GSH3",
+					"display_url": "pic.twitter.com/slzfP7GSH3",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1090769155970740225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7549,
+			"friends_count": 4966,
+			"listed_count": 41,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are constantly searching for things we can't get and neglecting what we have. Let's all take a step back and be more grateful in life. We are keen to know what you have been grateful for in the last 30 days! 😌 #GratefulnessIsKey #ThankfulThursday https://t.co/eO9q853auc https://t.co/slzfP7GSH3"
+	},
+	{
 		"created_at": "Tue Jan 29 11:00:31 +0000 2019",
 		"id": 1090203026411962400,
 		"id_str": "1090203026411962368",
