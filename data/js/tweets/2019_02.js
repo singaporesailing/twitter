@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Jan 28 09:25:35 +0000 2019",
+		"id": 1089816751112478700,
+		"id_str": "1095190328645054465",
+		"full_text": "@SingaporeSail - looking for more crew for weekend trimaran / Corsair racing at Changi Sailing Club. Please help spread the word. Folks can DM me if interested...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingaporeSail",
+					"name": "Singapore Sailing 🇸🇬 ⛵️",
+					"id": 906430548641439700,
+					"id_str": "906430548641439744",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 906430548641439700,
+		"in_reply_to_user_id_str": "906430548641439744",
+		"in_reply_to_screen_name": "SingaporeSail",
+		"user": {
+			"id": 11297362,
+			"id_str": "11297362",
+			"name": "Shaun Norris",
+			"screen_name": "shaunnorris",
+			"location": "Singapore",
+			"description": "Cloud technology by profession. Sailor by passion. On a mission to change how software is built and operated. https://t.co/xKwDjjoV3m",
+			"url": "https://t.co/xKwDjjoV3m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xKwDjjoV3m",
+							"expanded_url": "http://pivotal.io",
+							"display_url": "pivotal.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xKwDjjoV3m",
+							"expanded_url": "http://pivotal.io",
+							"display_url": "pivotal.io",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 666,
+			"friends_count": 751,
+			"listed_count": 73,
+			"created_at": "Tue Dec 18 15:28:23 +0000 2007",
+			"favourites_count": 3236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090946292686086146/MrvXjUb9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090946292686086146/MrvXjUb9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11297362/1488256102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6635b2fcebd13c64",
+			"url": "https://api.twitter.com/1.1/geo/id/6635b2fcebd13c64.json",
+			"place_type": "admin",
+			"name": "East Region",
+			"full_name": "East Region, Singapore",
+			"country_code": "SG",
+			"country": "Singapore",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							103.89216999988,
+							1.30157724092846
+						],
+						[
+							104.085566789885,
+							1.30157724092846
+						],
+						[
+							104.085566789885,
+							1.44093662101956
+						],
+						[
+							103.89216999988,
+							1.44093662101956
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@SingaporeSail - looking for more crew for weekend trimaran / Corsair racing at Changi Sailing Club. Please help spread the word. Folks can DM me if interested..."
+	},
+	{
+		"created_at": "Tue Feb 12 05:17:57 +0000 2019",
+		"id": 1095190248760332300,
+		"id_str": "1095190248760332295",
+		"full_text": "@cctvjapanese Happy CnY!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cctvjapanese",
+					"name": "CGTN 日本語",
+					"id": 986919681209413600,
+					"id_str": "986919681209413632",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1092747590997692400,
+		"in_reply_to_status_id_str": "1092747590997692416",
+		"in_reply_to_user_id": 986919681209413600,
+		"in_reply_to_user_id_str": "986919681209413632",
+		"in_reply_to_screen_name": "cctvjapanese",
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7580,
+			"friends_count": 5493,
+			"listed_count": 42,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cctvjapanese Happy CnY!"
+	},
+	{
+		"created_at": "Tue Feb 12 05:17:12 +0000 2019",
+		"id": 1095190059559448600,
+		"id_str": "1095190059559448576",
+		"full_text": "Yes!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1094950170561781800,
+		"in_reply_to_status_id_str": "1094950170561781761",
+		"in_reply_to_user_id": 906430548641439700,
+		"in_reply_to_user_id_str": "906430548641439744",
+		"in_reply_to_screen_name": "SingaporeSail",
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7580,
+			"friends_count": 5493,
+			"listed_count": 42,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "Yes!!"
+	},
+	{
+		"created_at": "Tue Feb 12 00:30:11 +0000 2019",
+		"id": 1095117828145991700,
+		"id_str": "1095117828145991680",
+		"full_text": "We’re pretty sure many of you are looking for healthier meals to cleanse your palates. Here’s a list of best places you can head to for a healthy yet tasty and satisfying meal. 😜 #WhereToFindFood #HealthyGains #KeepingFit #HealthyTipTuesday https://t.co/h6sw3aRlKd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhereToFindFood",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"text": "HealthyGains",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"text": "KeepingFit",
+					"indices": [
+						210,
+						221
+					]
+				},
+				{
+					"text": "HealthyTipTuesday",
+					"indices": [
+						222,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h6sw3aRlKd",
+					"expanded_url": "https://www.misstamchiak.com/healthy-eating-singapore/",
+					"display_url": "misstamchiak.com/healthy-eating…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7580,
+			"friends_count": 5493,
+			"listed_count": 42,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re pretty sure many of you are looking for healthier meals to cleanse your palates. Here’s a list of best places you can head to for a healthy yet tasty and satisfying meal. 😜 #WhereToFindFood #HealthyGains #KeepingFit #HealthyTipTuesday https://t.co/h6sw3aRlKd"
+	},
+	{
 		"created_at": "Sun Feb 10 21:06:29 +0000 2019",
 		"id": 1094704179765960700,
 		"id_str": "1094704179765960704",
