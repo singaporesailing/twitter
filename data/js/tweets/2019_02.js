@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 00:30:14 +0000 2019",
+		"id": 1100191273355497500,
+		"id_str": "1100191273355497473",
+		"full_text": "#HealthyTipTuesday You know those people, who embody the phrase “70 is the new 50” ? Now, 70 seems to be the new 30 because they radiate so much youth and energy. Here are some lifestyle choice that you can do to reduce the aging process! 😅 #MyLifeIsGood https://t.co/JAomSfvHtc https://t.co/dYY6DzVs65",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HealthyTipTuesday",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "MyLifeIsGood",
+					"indices": [
+						241,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JAomSfvHtc",
+					"expanded_url": "https://www.washingtonpost.com/lifestyle/wellness/beyond-genetics-lifestyle-choices-to-slow-the-aging-process/2018/06/20/96c90de4-681f-11e8-bea7-c8eb28bc52b1_story.html?utm_campaign=Deborah%20Kay%3A%20Random%20Sh%2At%20I%20Discover%20on%20the%20Internet&utm_medium=email&utm_source=Revue%20newsletter&utm_term=.0b30c846d57c",
+					"display_url": "washingtonpost.com/lifestyle/well…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1100191268792078300,
+					"id_str": "1100191268792078338",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D0SqIUFWkAIGc2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0SqIUFWkAIGc2v.jpg",
+					"url": "https://t.co/dYY6DzVs65",
+					"display_url": "pic.twitter.com/dYY6DzVs65",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1100191273355497473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1484,
+							"h": 989,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100191268792078300,
+					"id_str": "1100191268792078338",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D0SqIUFWkAIGc2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0SqIUFWkAIGc2v.jpg",
+					"url": "https://t.co/dYY6DzVs65",
+					"display_url": "pic.twitter.com/dYY6DzVs65",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1100191273355497473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1484,
+							"h": 989,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7520,
+			"friends_count": 5053,
+			"listed_count": 42,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1640,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#HealthyTipTuesday You know those people, who embody the phrase “70 is the new 50” ? Now, 70 seems to be the new 30 because they radiate so much youth and energy. Here are some lifestyle choice that you can do to reduce the aging process! 😅 #MyLifeIsGood https://t.co/JAomSfvHtc https://t.co/dYY6DzVs65"
+	},
+	{
 		"created_at": "Fri Feb 22 00:30:14 +0000 2019",
 		"id": 1098741721117134800,
 		"id_str": "1098741721117134853",
