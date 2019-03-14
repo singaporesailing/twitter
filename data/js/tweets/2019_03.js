@@ -1,10 +1,124 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 00:30:06 +0000 2019",
+		"id": 1105989445860450300,
+		"id_str": "1105989445860450306",
+		"full_text": "In a podcast episode with Tim Ferriss and Michael Gervais, they discuss on how to win the war against anxiety, some of the more effective (and less effective) ways to self-talk, behind-the-scenes stories of Michael’s clients, and more.\n\n#ThursdayThoughts https://t.co/KrNC6TFAly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThursdayThoughts",
+					"indices": [
+						237,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KrNC6TFAly",
+					"expanded_url": "http://tim.blog/2017/08/02/michael-ge",
+					"display_url": "tim.blog/2017/08/02/mic…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7516,
+			"friends_count": 5238,
+			"listed_count": 42,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1664,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In a podcast episode with Tim Ferriss and Michael Gervais, they discuss on how to win the war against anxiety, some of the more effective (and less effective) ways to self-talk, behind-the-scenes stories of Michael’s clients, and more.\n\n#ThursdayThoughts https://t.co/KrNC6TFAly"
+	},
+	{
 		"created_at": "Wed Mar 13 00:23:44 +0000 2019",
 		"id": 1105625454042583000,
 		"id_str": "1105625454042583040",
-		"full_text": "500 days to go to the Tokyo 2020 Olympics! 🇸🇬⛵️💨🏄‍♀️ #roadtotokyo #tokyo2020 #SailforSG https://t.co/VKMPgAHWp0 https://t.co/V8OstdBm5P",
+		"full_text": "500 days to go to the Tokyo 2020 Olympics! 🇸🇬⛵️💨🏄♀️ #roadtotokyo #tokyo2020 #SailforSG https://t.co/VKMPgAHWp0 https://t.co/V8OstdBm5P",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -204,7 +318,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "500 days to go to the Tokyo 2020 Olympics! 🇸🇬⛵️💨🏄‍♀️ #roadtotokyo #tokyo2020 #SailforSG https://t.co/VKMPgAHWp0 https://t.co/V8OstdBm5P"
+		"text": "500 days to go to the Tokyo 2020 Olympics! 🇸🇬⛵️💨🏄♀️ #roadtotokyo #tokyo2020 #SailforSG https://t.co/VKMPgAHWp0 https://t.co/V8OstdBm5P"
 	},
 	{
 		"created_at": "Tue Mar 12 00:30:03 +0000 2019",
