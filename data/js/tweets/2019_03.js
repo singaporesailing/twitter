@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 00:09:00 +0000 2019",
+		"id": 1109245626011799600,
+		"id_str": "1109245626011799552",
+		"full_text": "Singapore PM joins public sailing day https://t.co/HgiegAxH0z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HgiegAxH0z",
+					"expanded_url": "https://buff.ly/2HIvE2C",
+					"display_url": "buff.ly/2HIvE2C",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7529,
+			"friends_count": 5189,
+			"listed_count": 42,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Singapore PM joins public sailing day https://t.co/HgiegAxH0z"
+	},
+	{
+		"created_at": "Fri Mar 22 23:34:40 +0000 2019",
+		"id": 1109236984482914300,
+		"id_str": "1109236984482914304",
+		"full_text": "\"When we dance in the ocean....\"⁣\n😀💃⛵🌊⁣\n😀🕺⛵🌊⁣\n\nThanks again to our sponsors @actxa⁣\n⁣Thanks to our photographers⁣\n📷: @Haw_Lin \n📷: @Vaxzone⁣\n⁣\n#NationalYouthSailingChampionship2019 \n#sunshine #sunshinetherapy #beachvibes #endlesssummer #oceanvibes #vitaminsea https://t.co/6mDZdzIS1h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NationalYouthSailingChampionship2019",
+					"indices": [
+						142,
+						179
+					]
+				},
+				{
+					"text": "sunshine",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "sunshinetherapy",
+					"indices": [
+						191,
+						207
+					]
+				},
+				{
+					"text": "beachvibes",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"text": "endlesssummer",
+					"indices": [
+						220,
+						234
+					]
+				},
+				{
+					"text": "oceanvibes",
+					"indices": [
+						235,
+						246
+					]
+				},
+				{
+					"text": "vitaminsea",
+					"indices": [
+						247,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AcTxA",
+					"name": "AcTxA",
+					"id": 2433459300,
+					"id_str": "2433459300",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"screen_name": "Haw_Lin",
+					"name": "Hannah",
+					"id": 97175821,
+					"id_str": "97175821",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109236667976544300,
+					"id_str": "1109236667976544258",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109236667976544258/pu/img/7sTZbGewWOxQ6eEA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109236667976544258/pu/img/7sTZbGewWOxQ6eEA.jpg",
+					"url": "https://t.co/6mDZdzIS1h",
+					"display_url": "pic.twitter.com/6mDZdzIS1h",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1109236984482914304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109236667976544300,
+					"id_str": "1109236667976544258",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109236667976544258/pu/img/7sTZbGewWOxQ6eEA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109236667976544258/pu/img/7sTZbGewWOxQ6eEA.jpg",
+					"url": "https://t.co/6mDZdzIS1h",
+					"display_url": "pic.twitter.com/6mDZdzIS1h",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1109236984482914304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59360,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1109236667976544258/pu/vid/640x360/hpdNU43YKgfrErPI.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1109236667976544258/pu/vid/320x180/QGQUvyRV8BflUyJd.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1109236667976544258/pu/pl/oX9T799XVjtnH96o.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1109236667976544258/pu/vid/1280x720/awMsA6B6jvT5hics.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7529,
+			"friends_count": 5189,
+			"listed_count": 42,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"When we dance in the ocean....\"⁣\n😀💃⛵🌊⁣\n😀🕺⛵🌊⁣\n\nThanks again to our sponsors @actxa⁣\n⁣Thanks to our photographers⁣\n📷: @Haw_Lin \n📷: @Vaxzone⁣\n⁣\n#NationalYouthSailingChampionship2019 \n#sunshine #sunshinetherapy #beachvibes #endlesssummer #oceanvibes #vitaminsea https://t.co/6mDZdzIS1h"
+	},
+	{
+		"created_at": "Fri Mar 22 18:50:31 +0000 2019",
+		"id": 1108936006038777900,
+		"id_str": "1109165478348349440",
+		"full_text": "It's #WorldWaterDay!  ⛵️ At our YouthChamps Regatta, we\n\n👉 Use pails provided to collect water for boat washing\n👉 Use water saving push taps with hoses \n\nUse water wisely and #makeeverydropcount. \nWith @pubsingapore #GoBlue4SG https://t.co/FVTZowoTT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldWaterDay",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "makeeverydropcount",
+					"indices": [
+						175,
+						194
+					]
+				},
+				{
+					"text": "GoBlue4SG",
+					"indices": [
+						216,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PUBsingapore",
+					"name": "PUB",
+					"id": 269148983,
+					"id_str": "269148983",
+					"indices": [
+						202,
+						215
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108935662474952700,
+					"id_str": "1108935662474952704",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108935662474952704/pu/img/UZd7XdAuhyK6oPvI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108935662474952704/pu/img/UZd7XdAuhyK6oPvI.jpg",
+					"url": "https://t.co/FVTZowoTT6",
+					"display_url": "pic.twitter.com/FVTZowoTT6",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1108936006038777861/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108935662474952700,
+					"id_str": "1108935662474952704",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108935662474952704/pu/img/UZd7XdAuhyK6oPvI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108935662474952704/pu/img/UZd7XdAuhyK6oPvI.jpg",
+					"url": "https://t.co/FVTZowoTT6",
+					"display_url": "pic.twitter.com/FVTZowoTT6",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1108936006038777861/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1108935662474952704/pu/pl/-d1nAx8-Mc1jM9Z7.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108935662474952704/pu/vid/480x480/Yw_446tMsI2pCMPa.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108935662474952704/pu/vid/720x720/s0QA2m4-CBEsmFsN.mp4?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108935662474952704/pu/vid/320x320/Zgy3zwZCHFAQ9zHn.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7529,
+			"friends_count": 5189,
+			"listed_count": 42,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's #WorldWaterDay!  ⛵️ At our YouthChamps Regatta, we\n\n👉 Use pails provided to collect water for boat washing\n👉 Use water saving push taps with hoses \n\nUse water wisely and #makeeverydropcount. \nWith @pubsingapore #GoBlue4SG https://t.co/FVTZowoTT6"
+	},
+	{
 		"created_at": "Fri Mar 22 04:29:46 +0000 2019",
 		"id": 1108948862763360300,
 		"id_str": "1108948862763360256",
