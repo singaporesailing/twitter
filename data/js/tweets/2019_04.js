@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 00:30:11 +0000 2019",
+		"id": 1115411549596864500,
+		"id_str": "1115411549596864513",
+		"full_text": "Rumors are always circulating that certain foods can cure cancer, but the truth is you need to eat a variety of potentially cancer-fighting foods to reduce your risk. And most of these foods are plants. 😋 #NutritionIsTheBest #IEatHealthily https://t.co/yZEhdpNmNH https://t.co/lmCanImYYw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NutritionIsTheBest",
+					"indices": [
+						205,
+						224
+					]
+				},
+				{
+					"text": "IEatHealthily",
+					"indices": [
+						225,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yZEhdpNmNH",
+					"expanded_url": "https://www.washingtonpost.com/lifestyle/wellness/5-steps-to-lowering-your-cancer-risk-according-to-a-dietitian/2018/03/29/5be4bbce-2c6f-11e8-b0b0-f706877db618_story.html?utm_campaign=Deborah%20Kay%3A%20Random%20Sh%2At%20I%20Discover%20on%20the%20Internet&utm_medium=email&utm_source=Revue%20newsletter&utm_term=.eb679ee1b1f1",
+					"display_url": "washingtonpost.com/lifestyle/well…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115411544572072000,
+					"id_str": "1115411544572071937",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/D3q849yWkAEZetA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3q849yWkAEZetA.jpg",
+					"url": "https://t.co/lmCanImYYw",
+					"display_url": "pic.twitter.com/lmCanImYYw",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1115411549596864513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1484,
+							"h": 989,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115411544572072000,
+					"id_str": "1115411544572071937",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/D3q849yWkAEZetA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3q849yWkAEZetA.jpg",
+					"url": "https://t.co/lmCanImYYw",
+					"display_url": "pic.twitter.com/lmCanImYYw",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1115411549596864513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1484,
+							"h": 989,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7541,
+			"friends_count": 5227,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rumors are always circulating that certain foods can cure cancer, but the truth is you need to eat a variety of potentially cancer-fighting foods to reduce your risk. And most of these foods are plants. 😋 #NutritionIsTheBest #IEatHealthily https://t.co/yZEhdpNmNH https://t.co/lmCanImYYw"
+	},
+	{
 		"created_at": "Sun Apr 07 11:24:01 +0000 2019",
 		"id": 1114851314733846500,
 		"id_str": "1114851314733846528",
