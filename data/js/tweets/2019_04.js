@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 00:30:07 +0000 2019",
+		"id": 1118310637258575900,
+		"id_str": "1118310637258575873",
+		"full_text": "Ever wondered if your exercise program is working? Do you measure its success by weighing or timing yourself? Thankfully, there are several easy ways to determine if you’re actually making progress with your exercise regimen. #KeepingFit #IAmHealthy https://t.co/VeBo7n3JPy https://t.co/pqyj34SOmx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KeepingFit",
+					"indices": [
+						226,
+						237
+					]
+				},
+				{
+					"text": "IAmHealthy",
+					"indices": [
+						238,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VeBo7n3JPy",
+					"expanded_url": "https://blog.myfitnesspal.com/how-to-know-if-your-exercise-program-is-working/",
+					"display_url": "blog.myfitnesspal.com/how-to-know-if…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118310633202769900,
+					"id_str": "1118310633202769926",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/D4UJmIiX4AYy5wO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4UJmIiX4AYy5wO.jpg",
+					"url": "https://t.co/pqyj34SOmx",
+					"display_url": "pic.twitter.com/pqyj34SOmx",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1118310637258575873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1504,
+							"h": 944,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 753,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118310633202769900,
+					"id_str": "1118310633202769926",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/D4UJmIiX4AYy5wO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4UJmIiX4AYy5wO.jpg",
+					"url": "https://t.co/pqyj34SOmx",
+					"display_url": "pic.twitter.com/pqyj34SOmx",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1118310637258575873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1504,
+							"h": 944,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 753,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7537,
+			"friends_count": 5258,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered if your exercise program is working? Do you measure its success by weighing or timing yourself? Thankfully, there are several easy ways to determine if you’re actually making progress with your exercise regimen. #KeepingFit #IAmHealthy https://t.co/VeBo7n3JPy https://t.co/pqyj34SOmx"
+	},
+	{
 		"created_at": "Mon Apr 15 00:30:08 +0000 2019",
 		"id": 1117585864417251300,
 		"id_str": "1117585864417251328",
