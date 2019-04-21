@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 00:30:03 +0000 2019",
+		"id": 1119760171838914600,
+		"id_str": "1119760171838914565",
+		"full_text": "What does the word \"freedom\" means to you? To the fish in the video, freedom simply means getting out of a plastic bag. Perhaps after watching this 43s video clip, you will think twice about your next single-use plastic. 🌏🐟 #SustainabilitySunday https://t.co/eP3tJoua5s https://t.co/yhWFyghLBd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SustainabilitySunday",
+					"indices": [
+						224,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eP3tJoua5s",
+					"expanded_url": "https://www.facebook.com/UNILADAdventure/videos/265655537672431/",
+					"display_url": "facebook.com/UNILADAdventur…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119760167799750700,
+					"id_str": "1119760167799750656",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ov8JtWAAA8kYb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ov8JtWAAA8kYb.jpg",
+					"url": "https://t.co/yhWFyghLBd",
+					"display_url": "pic.twitter.com/yhWFyghLBd",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1119760171838914565/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119760167799750700,
+					"id_str": "1119760167799750656",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ov8JtWAAA8kYb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ov8JtWAAA8kYb.jpg",
+					"url": "https://t.co/yhWFyghLBd",
+					"display_url": "pic.twitter.com/yhWFyghLBd",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1119760171838914565/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7553,
+			"friends_count": 5280,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1713,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What does the word \"freedom\" means to you? To the fish in the video, freedom simply means getting out of a plastic bag. Perhaps after watching this 43s video clip, you will think twice about your next single-use plastic. 🌏🐟 #SustainabilitySunday https://t.co/eP3tJoua5s https://t.co/yhWFyghLBd"
+	},
+	{
 		"created_at": "Fri Apr 19 02:00:17 +0000 2019",
 		"id": 1119058101888520200,
 		"id_str": "1119058101888520198",
