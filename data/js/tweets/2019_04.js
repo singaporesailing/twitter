@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 11:23:48 +0000 2019",
+		"id": 1122823794207359000,
+		"id_str": "1122823794207358976",
+		"full_text": "You can't get time back but you can get back on track.⠀\n⠀\n⠀\n#MondayMotivation #quote #quoteoftheday #inspire #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #lifequotes #dailyquotes #wordsofwisdom #lifelessons #thoughtoftheday #p… https://t.co/eBtxsASLh1 https://t.co/k75fSwxTyb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MondayMotivation",
+					"indices": [
+						60,
+						77
+					]
+				},
+				{
+					"text": "quote",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "quoteoftheday",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"text": "inspire",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "motivation",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"text": "quotestoliveby",
+					"indices": [
+						121,
+						136
+					]
+				},
+				{
+					"text": "quotesdaily",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "quotesoftheday",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"text": "instaquote",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "lifequotes",
+					"indices": [
+						178,
+						189
+					]
+				},
+				{
+					"text": "dailyquotes",
+					"indices": [
+						190,
+						202
+					]
+				},
+				{
+					"text": "wordsofwisdom",
+					"indices": [
+						203,
+						217
+					]
+				},
+				{
+					"text": "lifelessons",
+					"indices": [
+						218,
+						230
+					]
+				},
+				{
+					"text": "thoughtoftheday",
+					"indices": [
+						231,
+						247
+					]
+				},
+				{
+					"text": "p",
+					"indices": [
+						248,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eBtxsASLh1",
+					"expanded_url": "https://www.instagram.com/p/Bw1lxjnBnRu/",
+					"display_url": "instagram.com/p/Bw1lxjnBnRu/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1122823793083387900,
+					"id_str": "1122823793083387905",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D5USSnQXkAEJfck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5USSnQXkAEJfck.jpg",
+					"url": "https://t.co/k75fSwxTyb",
+					"display_url": "pic.twitter.com/k75fSwxTyb",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1122823794207358976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122823793083387900,
+					"id_str": "1122823793083387905",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D5USSnQXkAEJfck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5USSnQXkAEJfck.jpg",
+					"url": "https://t.co/k75fSwxTyb",
+					"display_url": "pic.twitter.com/k75fSwxTyb",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1122823794207358976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7547,
+			"friends_count": 5283,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can't get time back but you can get back on track.⠀\n⠀\n⠀\n#MondayMotivation #quote #quoteoftheday #inspire #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #lifequotes #dailyquotes #wordsofwisdom #lifelessons #thoughtoftheday #p… https://t.co/eBtxsASLh1 https://t.co/k75fSwxTyb"
+	},
+	{
 		"created_at": "Mon Apr 29 00:30:09 +0000 2019",
 		"id": 1122659298692206600,
 		"id_str": "1122659298692206592",
