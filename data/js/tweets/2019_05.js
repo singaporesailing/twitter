@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 12:23:58 +0000 2019",
+		"id": 1126462816599330800,
+		"id_str": "1126462816599330818",
+		"full_text": "@zhikaustralia is having a MAJOR GIVEAWAY to celebrate reaching 10k followers 🎉⠀\n⠀\nHead on down to their account 👉 @zhikaustralia 👈 to find out how you can enter this AMAZING giveaway 😍 for a chance to win the prizes!!\n#giveaway #zhik https://t.co/meLuJzhNyO https://t.co/pseXTJ3svv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "giveaway",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"text": "zhik",
+					"indices": [
+						229,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZhikAustralia",
+					"name": "Zhik Australia",
+					"id": 773358664652582900,
+					"id_str": "773358664652582912",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ZhikAustralia",
+					"name": "Zhik Australia",
+					"id": 773358664652582900,
+					"id_str": "773358664652582912",
+					"indices": [
+						115,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/meLuJzhNyO",
+					"expanded_url": "https://www.instagram.com/p/BxPYyylBMJW/",
+					"display_url": "instagram.com/p/BxPYyylBMJW/",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126462815479447600,
+					"id_str": "1126462815479447554",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/D6H_9mFWwAIU53B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6H_9mFWwAIU53B.jpg",
+					"url": "https://t.co/pseXTJ3svv",
+					"display_url": "pic.twitter.com/pseXTJ3svv",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1126462816599330818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126462815479447600,
+					"id_str": "1126462815479447554",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/D6H_9mFWwAIU53B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6H_9mFWwAIU53B.jpg",
+					"url": "https://t.co/pseXTJ3svv",
+					"display_url": "pic.twitter.com/pseXTJ3svv",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1126462816599330818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 773358664652582900,
+		"in_reply_to_user_id_str": "773358664652582912",
+		"in_reply_to_screen_name": "ZhikAustralia",
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7522,
+			"friends_count": 5277,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@zhikaustralia is having a MAJOR GIVEAWAY to celebrate reaching 10k followers 🎉⠀\n⠀\nHead on down to their account 👉 @zhikaustralia 👈 to find out how you can enter this AMAZING giveaway 😍 for a chance to win the prizes!!\n#giveaway #zhik https://t.co/meLuJzhNyO https://t.co/pseXTJ3svv"
+	},
+	{
 		"created_at": "Thu May 09 00:30:04 +0000 2019",
 		"id": 1126283157769211900,
 		"id_str": "1126283157769211904",
