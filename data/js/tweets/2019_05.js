@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 00:30:04 +0000 2019",
+		"id": 1130631809811853300,
+		"id_str": "1130631809811853313",
+		"full_text": "Today's #HealthyTipTuesday is to work less, &amp; exercise more!\n\nAccording to a study conducted by researchers from Yale and Oxford, it has been proven that exercise is more important to your mental health than your economic status! 💆 https://t.co/2Gxp8uxKPR https://t.co/okVigzuYee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HealthyTipTuesday",
+					"indices": [
+						8,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Gxp8uxKPR",
+					"expanded_url": "https://www.businessinsider.com/exercise-makes-you-happier-than-money-says-yale-and-oxford-study-2019-4?r=US&IR=T&utm_content=buffer3de0e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer-fitness&fbclid=IwAR2mBoyek8CHvkwtJJ0d3JsJcF04d7SZ17QtivDPJAGk7AuonbIhuicFOcE",
+					"display_url": "businessinsider.com/exercise-makes…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130631805491716100,
+					"id_str": "1130631805491716097",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D7DPowIXoAEr10R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7DPowIXoAEr10R.jpg",
+					"url": "https://t.co/okVigzuYee",
+					"display_url": "pic.twitter.com/okVigzuYee",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1130631809811853313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130631805491716100,
+					"id_str": "1130631805491716097",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D7DPowIXoAEr10R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7DPowIXoAEr10R.jpg",
+					"url": "https://t.co/okVigzuYee",
+					"display_url": "pic.twitter.com/okVigzuYee",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1130631809811853313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7501,
+			"friends_count": 5267,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1749,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today's #HealthyTipTuesday is to work less, &amp; exercise more!\n\nAccording to a study conducted by researchers from Yale and Oxford, it has been proven that exercise is more important to your mental health than your economic status! 💆 https://t.co/2Gxp8uxKPR https://t.co/okVigzuYee"
+	},
+	{
 		"created_at": "Sun May 19 02:00:10 +0000 2019",
 		"id": 1129929711562502100,
 		"id_str": "1129929711562502149",
