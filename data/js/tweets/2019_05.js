@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 00:30:14 +0000 2019",
+		"id": 1131356628257787900,
+		"id_str": "1131356628257787904",
+		"full_text": "#ThankfulThursday\n\n\"Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.”\n- Ferris Bueller \n\nA life well lived is one of gratitude and thankfulness. Here are 8 ways that will help you appreciate life better. 🌈 https://t.co/3l3TACWRcF https://t.co/IMemEDLwYh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThankfulThursday",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3l3TACWRcF",
+					"expanded_url": "https://www.forbes.com/sites/womensmedia/2016/07/08/8-ways-to-have-more-gratitude-every-day/#4d721d2b1d54",
+					"display_url": "forbes.com/sites/womensme…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1131356623497236500,
+					"id_str": "1131356623497236480",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Ni2tnWkAA_Ldt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Ni2tnWkAA_Ldt.jpg",
+					"url": "https://t.co/IMemEDLwYh",
+					"display_url": "pic.twitter.com/IMemEDLwYh",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1131356628257787904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131356623497236500,
+					"id_str": "1131356623497236480",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Ni2tnWkAA_Ldt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Ni2tnWkAA_Ldt.jpg",
+					"url": "https://t.co/IMemEDLwYh",
+					"display_url": "pic.twitter.com/IMemEDLwYh",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1131356628257787904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7489,
+			"friends_count": 5272,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ThankfulThursday\n\n\"Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.”\n- Ferris Bueller \n\nA life well lived is one of gratitude and thankfulness. Here are 8 ways that will help you appreciate life better. 🌈 https://t.co/3l3TACWRcF https://t.co/IMemEDLwYh"
+	},
+	{
 		"created_at": "Tue May 21 00:30:04 +0000 2019",
 		"id": 1130631809811853300,
 		"id_str": "1130631809811853313",
