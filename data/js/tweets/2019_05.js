@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 00:30:08 +0000 2019",
+		"id": 1133530931338330100,
+		"id_str": "1133530931338330119",
+		"full_text": "Have you always wondered how one can look younger without the use of medical instruments? The answer is simple: Exercise. In this study, aerobic exercise appears to have lengthened people’s telomeres, almost dialing back time. #WorkoutWednesday 💪 https://t.co/yXZlkcm7AD https://t.co/0YIwp5cUDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorkoutWednesday",
+					"indices": [
+						227,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yXZlkcm7AD",
+					"expanded_url": "https://www.nytimes.com/2018/12/26/well/move/2018-year-in-fitness-how-exercise-keeps-us-young.html",
+					"display_url": "nytimes.com/2018/12/26/wel…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133530926821122000,
+					"id_str": "1133530926821122049",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D7scX0sXoAE5Nnf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7scX0sXoAE5Nnf.jpg",
+					"url": "https://t.co/0YIwp5cUDc",
+					"display_url": "pic.twitter.com/0YIwp5cUDc",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1133530931338330119/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133530926821122000,
+					"id_str": "1133530926821122049",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D7scX0sXoAE5Nnf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7scX0sXoAE5Nnf.jpg",
+					"url": "https://t.co/0YIwp5cUDc",
+					"display_url": "pic.twitter.com/0YIwp5cUDc",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1133530931338330119/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7486,
+			"friends_count": 5274,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you always wondered how one can look younger without the use of medical instruments? The answer is simple: Exercise. In this study, aerobic exercise appears to have lengthened people’s telomeres, almost dialing back time. #WorkoutWednesday 💪 https://t.co/yXZlkcm7AD https://t.co/0YIwp5cUDc"
+	},
+	{
 		"created_at": "Mon May 27 00:30:03 +0000 2019",
 		"id": 1132806133549293600,
 		"id_str": "1132806133549293568",
