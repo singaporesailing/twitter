@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 00:30:10 +0000 2019",
+		"id": 1136430043410894800,
+		"id_str": "1136430043410894848",
+		"full_text": "In the past decade, numerous studies have shown that self-compassion is important for mental and emotional health and well-being. Newer research is also finding that self-compassion plays a role in physical health. #LoveYourself #ThankfulThursday 💕 https://t.co/e61X62AEJg https://t.co/9pZUi0Cp09",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LoveYourself",
+					"indices": [
+						215,
+						228
+					]
+				},
+				{
+					"text": "ThankfulThursday",
+					"indices": [
+						229,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e61X62AEJg",
+					"expanded_url": "https://www.washingtonpost.com/lifestyle/wellness/want-to-be-healthier-try-a-little-tenderness/2018/03/19/c079567a-262b-11e8-874b-d517e912f125_story.html?noredirect=on&utm_term=.1300f84022b5",
+					"display_url": "washingtonpost.com/lifestyle/well…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136430037295435800,
+					"id_str": "1136430037295435776",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D8VpGQ0UEAAhWDR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8VpGQ0UEAAhWDR.jpg",
+					"url": "https://t.co/9pZUi0Cp09",
+					"display_url": "pic.twitter.com/9pZUi0Cp09",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1136430043410894848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1484,
+							"h": 1113,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136430037295435800,
+					"id_str": "1136430037295435776",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D8VpGQ0UEAAhWDR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8VpGQ0UEAAhWDR.jpg",
+					"url": "https://t.co/9pZUi0Cp09",
+					"display_url": "pic.twitter.com/9pZUi0Cp09",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1136430043410894848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1484,
+							"h": 1113,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7466,
+			"friends_count": 5269,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the past decade, numerous studies have shown that self-compassion is important for mental and emotional health and well-being. Newer research is also finding that self-compassion plays a role in physical health. #LoveYourself #ThankfulThursday 💕 https://t.co/e61X62AEJg https://t.co/9pZUi0Cp09"
+	},
+	{
 		"created_at": "Wed Jun 05 02:45:33 +0000 2019",
 		"id": 1136101726052896800,
 		"id_str": "1136101726052896774",
