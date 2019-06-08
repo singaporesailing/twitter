@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 00:30:05 +0000 2019",
+		"id": 1137154797633790000,
+		"id_str": "1137154797633789957",
+		"full_text": "It is common for kids to get bumps and bruises from time to time and that's alright in the right circumstances because \"that's what they’re supposed to do—they’re kids, that’s how they learn.\"\n- Will Gadd, professional climber\n\n#SportySaturday https://t.co/0GKR8b7MY6 https://t.co/g27QiDZiYJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SportySaturday",
+					"indices": [
+						228,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0GKR8b7MY6",
+					"expanded_url": "https://www.outsideonline.com/2393676/teach-children-risk-benefit-mangement",
+					"display_url": "outsideonline.com/2393676/teach-…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1137154791824613400,
+					"id_str": "1137154791824613378",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/D8f8Qh1W4AIs0So.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8f8Qh1W4AIs0So.jpg",
+					"url": "https://t.co/g27QiDZiYJ",
+					"display_url": "pic.twitter.com/g27QiDZiYJ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1137154797633789957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137154791824613400,
+					"id_str": "1137154791824613378",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/D8f8Qh1W4AIs0So.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8f8Qh1W4AIs0So.jpg",
+					"url": "https://t.co/g27QiDZiYJ",
+					"display_url": "pic.twitter.com/g27QiDZiYJ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1137154797633789957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7461,
+			"friends_count": 5265,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is common for kids to get bumps and bruises from time to time and that's alright in the right circumstances because \"that's what they’re supposed to do—they’re kids, that’s how they learn.\"\n- Will Gadd, professional climber\n\n#SportySaturday https://t.co/0GKR8b7MY6 https://t.co/g27QiDZiYJ"
+	},
+	{
 		"created_at": "Thu Jun 06 11:45:16 +0000 2019",
 		"id": 1136599937582583800,
 		"id_str": "1136599937582583808",
