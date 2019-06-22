@@ -1,10 +1,202 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 22 00:30:03 +0000 2019",
+		"id": 1142228219665551400,
+		"id_str": "1142228219665551361",
+		"full_text": "Competing is probably most of our second nature. However, this article sheds some light on why the best way to raise capable kids is to fuel their love of games instead of forcing them to compete against each other. ⚾️🏉🏀 #SportySaturday https://t.co/A3goHJywox https://t.co/qDpp2qu4LR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SportySaturday",
+					"indices": [
+						221,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A3goHJywox",
+					"expanded_url": "https://www.outsideonline.com/2339671/strong-kid-play-not-compete",
+					"display_url": "outsideonline.com/2339671/strong…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142228215471255600,
+					"id_str": "1142228215471255553",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D9oCgpuXsAEFeT0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9oCgpuXsAEFeT0.jpg",
+					"url": "https://t.co/qDpp2qu4LR",
+					"display_url": "pic.twitter.com/qDpp2qu4LR",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1142228219665551361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142228215471255600,
+					"id_str": "1142228215471255553",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D9oCgpuXsAEFeT0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9oCgpuXsAEFeT0.jpg",
+					"url": "https://t.co/qDpp2qu4LR",
+					"display_url": "pic.twitter.com/qDpp2qu4LR",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1142228219665551361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "Singapore Sailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7435,
+			"friends_count": 5258,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Competing is probably most of our second nature. However, this article sheds some light on why the best way to raise capable kids is to fuel their love of games instead of forcing them to compete against each other. ⚾️🏉🏀 #SportySaturday https://t.co/A3goHJywox https://t.co/qDpp2qu4LR"
+	},
+	{
 		"created_at": "Thu Jun 20 11:26:06 +0000 2019",
 		"id": 1141668543664140300,
 		"id_str": "1141668543664140288",
-		"full_text": "400 days to go to the Tokyo 2020 Olympics! 🇸🇬⛵️💨🏄‍♀️ #roadtotokyo #tokyo2020 #SailforSG https://t.co/j2qcGytuvY https://t.co/ZAnASlMNMJ",
+		"full_text": "400 days to go to the Tokyo 2020 Olympics! 🇸🇬⛵️💨🏄♀️ #roadtotokyo #tokyo2020 #SailforSG https://t.co/j2qcGytuvY https://t.co/ZAnASlMNMJ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -204,7 +396,7 @@ Grailbird.data.tweets_2019_06 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "400 days to go to the Tokyo 2020 Olympics! 🇸🇬⛵️💨🏄‍♀️ #roadtotokyo #tokyo2020 #SailforSG https://t.co/j2qcGytuvY https://t.co/ZAnASlMNMJ"
+		"text": "400 days to go to the Tokyo 2020 Olympics! 🇸🇬⛵️💨🏄♀️ #roadtotokyo #tokyo2020 #SailforSG https://t.co/j2qcGytuvY https://t.co/ZAnASlMNMJ"
 	},
 	{
 		"created_at": "Thu Jun 20 00:30:18 +0000 2019",
