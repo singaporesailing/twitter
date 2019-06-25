@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 24 13:52:37 +0000 2019",
+		"id": 1143154967752171500,
+		"id_str": "1143154967752171520",
+		"full_text": "The ultimate victory in competition is derived from the inner satisfaction of knowing that you have done your best and that you have gotten the most out of what you had to give.\n\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotes… https://t.co/tOfVm2ctMr https://t.co/YNSgP8mj1J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quote",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "qotd",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"text": "quoteoftheday",
+					"indices": [
+						200,
+						214
+					]
+				},
+				{
+					"text": "inspire",
+					"indices": [
+						215,
+						223
+					]
+				},
+				{
+					"text": "inspiring",
+					"indices": [
+						224,
+						234
+					]
+				},
+				{
+					"text": "motivation",
+					"indices": [
+						235,
+						246
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						247,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tOfVm2ctMr",
+					"expanded_url": "https://www.instagram.com/p/BzF3oZojZOQ/",
+					"display_url": "instagram.com/p/BzF3oZojZOQ/",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1143154966787481600,
+					"id_str": "1143154966787481600",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D91NYraXYAAZTGe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D91NYraXYAAZTGe.jpg",
+					"url": "https://t.co/YNSgP8mj1J",
+					"display_url": "pic.twitter.com/YNSgP8mj1J",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1143154967752171520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143154966787481600,
+					"id_str": "1143154966787481600",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D91NYraXYAAZTGe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D91NYraXYAAZTGe.jpg",
+					"url": "https://t.co/YNSgP8mj1J",
+					"display_url": "pic.twitter.com/YNSgP8mj1J",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1143154967752171520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 5259,
+			"listed_count": 45,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The ultimate victory in competition is derived from the inner satisfaction of knowing that you have done your best and that you have gotten the most out of what you had to give.\n\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotes… https://t.co/tOfVm2ctMr https://t.co/YNSgP8mj1J"
+	},
+	{
 		"created_at": "Mon Jun 24 00:30:03 +0000 2019",
 		"id": 1142952994683674600,
 		"id_str": "1142952994683674624",
