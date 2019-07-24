@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 23 14:34:44 +0000 2019",
+		"id": 1153674814596485000,
+		"id_str": "1153674814596485120",
+		"full_text": "When you feel like quitting, think about why you started.⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotestagram #lifequotes #dailyquotes #wordsofwisdom #lifelesso… https://t.co/cz3HZvoSFl https://t.co/bbjDfopJUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quote",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "qotd",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "quoteoftheday",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "inspire",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "inspiring",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "motivation",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "quotestoliveby",
+					"indices": [
+						129,
+						144
+					]
+				},
+				{
+					"text": "quotesdaily",
+					"indices": [
+						145,
+						157
+					]
+				},
+				{
+					"text": "quotesoftheday",
+					"indices": [
+						158,
+						173
+					]
+				},
+				{
+					"text": "instaquote",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "quotestagram",
+					"indices": [
+						186,
+						199
+					]
+				},
+				{
+					"text": "lifequotes",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"text": "dailyquotes",
+					"indices": [
+						212,
+						224
+					]
+				},
+				{
+					"text": "wordsofwisdom",
+					"indices": [
+						225,
+						239
+					]
+				},
+				{
+					"text": "lifelesso",
+					"indices": [
+						240,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cz3HZvoSFl",
+					"expanded_url": "https://www.instagram.com/p/B0QhfECgInv/",
+					"display_url": "instagram.com/p/B0QhfECgInv/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1153674813094977500,
+					"id_str": "1153674813094977536",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EAKtIUzXYAAlGKQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAKtIUzXYAAlGKQ.jpg",
+					"url": "https://t.co/bbjDfopJUq",
+					"display_url": "pic.twitter.com/bbjDfopJUq",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1153674814596485120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153674813094977500,
+					"id_str": "1153674813094977536",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EAKtIUzXYAAlGKQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAKtIUzXYAAlGKQ.jpg",
+					"url": "https://t.co/bbjDfopJUq",
+					"display_url": "pic.twitter.com/bbjDfopJUq",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1153674814596485120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7392,
+			"friends_count": 5257,
+			"listed_count": 44,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you feel like quitting, think about why you started.⠀\n⠀\n#quote #qotd #quotes #quoteoftheday #inspire #inspiring #motivation #quotestoliveby #quotesdaily #quotesoftheday #instaquote #quotestagram #lifequotes #dailyquotes #wordsofwisdom #lifelesso… https://t.co/cz3HZvoSFl https://t.co/bbjDfopJUq"
+	},
+	{
 		"created_at": "Sat Jul 20 13:43:51 +0000 2019",
 		"id": 1152574845680595000,
 		"id_str": "1152574845680594944",
