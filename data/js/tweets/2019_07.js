@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 29 11:57:09 +0000 2019",
+		"id": 1155809483026829300,
+		"id_str": "1155809483026829312",
+		"full_text": "Sometimes the smallest step in the right direction ends up being the biggest step of your life.⠀\nTip toe as you must but take the step.⠀\n⠀\n#ssfquotes #mondaymotivation https://t.co/xnoz7RAxma https://t.co/lxA1GuNcx3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ssfquotes",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "mondaymotivation",
+					"indices": [
+						150,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xnoz7RAxma",
+					"expanded_url": "https://www.instagram.com/p/B0f-yKwguka/",
+					"display_url": "instagram.com/p/B0f-yKwguka/",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1155809482196377600,
+					"id_str": "1155809482196377602",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EApCma5X4AIo0KM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EApCma5X4AIo0KM.jpg",
+					"url": "https://t.co/lxA1GuNcx3",
+					"display_url": "pic.twitter.com/lxA1GuNcx3",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1155809483026829312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155809482196377600,
+					"id_str": "1155809482196377602",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EApCma5X4AIo0KM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EApCma5X4AIo0KM.jpg",
+					"url": "https://t.co/lxA1GuNcx3",
+					"display_url": "pic.twitter.com/lxA1GuNcx3",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1155809483026829312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7393,
+			"friends_count": 5255,
+			"listed_count": 44,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes the smallest step in the right direction ends up being the biggest step of your life.⠀\nTip toe as you must but take the step.⠀\n⠀\n#ssfquotes #mondaymotivation https://t.co/xnoz7RAxma https://t.co/lxA1GuNcx3"
+	},
+	{
 		"created_at": "Fri Jul 26 12:34:43 +0000 2019",
 		"id": 1154731774515302400,
 		"id_str": "1154731774515302402",
