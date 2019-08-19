@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 18 11:39:26 +0000 2019",
+		"id": 1163052781894283300,
+		"id_str": "1163052781894283264",
+		"full_text": "The Olympic Test event in Enoshima, Japan started yesterday for our Singaporean sailors! Best of luck to Kimberly &amp; Cecilia (49erFX), Ryan (Laser) and Justin &amp; Denice (Nacra 17)! ⠀\n⠀\n#SailforSG #ItTakesAVillage #MakingWavesTogether #raisingchampions https://t.co/pynpvvMf8R https://t.co/E2SbUrwpiG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SailforSG",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"text": "ItTakesAVillage",
+					"indices": [
+						202,
+						218
+					]
+				},
+				{
+					"text": "MakingWavesTogether",
+					"indices": [
+						219,
+						239
+					]
+				},
+				{
+					"text": "raisingchampions",
+					"indices": [
+						240,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pynpvvMf8R",
+					"expanded_url": "https://www.instagram.com/p/B1Tchm8gBea/",
+					"display_url": "instagram.com/p/B1Tchm8gBea/",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1163052780912816000,
+					"id_str": "1163052780912816128",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/ECP-V5VWsAASRy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECP-V5VWsAASRy4.jpg",
+					"url": "https://t.co/E2SbUrwpiG",
+					"display_url": "pic.twitter.com/E2SbUrwpiG",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1163052781894283264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1163052780912816000,
+					"id_str": "1163052780912816128",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/ECP-V5VWsAASRy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECP-V5VWsAASRy4.jpg",
+					"url": "https://t.co/E2SbUrwpiG",
+					"display_url": "pic.twitter.com/E2SbUrwpiG",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1163052781894283264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7341,
+			"friends_count": 5236,
+			"listed_count": 44,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Olympic Test event in Enoshima, Japan started yesterday for our Singaporean sailors! Best of luck to Kimberly &amp; Cecilia (49erFX), Ryan (Laser) and Justin &amp; Denice (Nacra 17)! ⠀\n⠀\n#SailforSG #ItTakesAVillage #MakingWavesTogether #raisingchampions https://t.co/pynpvvMf8R https://t.co/E2SbUrwpiG"
+	},
+	{
 		"created_at": "Fri Aug 16 13:10:42 +0000 2019",
 		"id": 1162350974335410200,
 		"id_str": "1162350974335410176",
