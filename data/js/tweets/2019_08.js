@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 21 11:55:38 +0000 2019",
+		"id": 1164144024099463200,
+		"id_str": "1164144024099463168",
+		"full_text": "[Repost] @jd.sailing \nAugust 2019, Enoshima\nOlympic Test event concludes for us today as we didn't make the cut for medal race and finished 14th. Superb fleet to be competing with and we are taking profits daily.\n•\nThankful for @momentsofapilgrim for… https://t.co/PPrgYvrrzn https://t.co/jXtiWDvT6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jd",
+					"name": "jon bradford",
+					"id": 781240,
+					"id_str": "781240",
+					"indices": [
+						9,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PPrgYvrrzn",
+					"expanded_url": "https://www.instagram.com/p/B1bFbx5AXMw/",
+					"display_url": "instagram.com/p/B1bFbx5AXMw/",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1164144022530793500,
+					"id_str": "1164144022530793472",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/ECfe0hJXoAAqftT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECfe0hJXoAAqftT.jpg",
+					"url": "https://t.co/jXtiWDvT6y",
+					"display_url": "pic.twitter.com/jXtiWDvT6y",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1164144024099463168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164144022530793500,
+					"id_str": "1164144022530793472",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/ECfe0hJXoAAqftT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECfe0hJXoAAqftT.jpg",
+					"url": "https://t.co/jXtiWDvT6y",
+					"display_url": "pic.twitter.com/jXtiWDvT6y",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1164144024099463168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7338,
+			"friends_count": 5231,
+			"listed_count": 44,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Repost] @jd.sailing \nAugust 2019, Enoshima\nOlympic Test event concludes for us today as we didn't make the cut for medal race and finished 14th. Superb fleet to be competing with and we are taking profits daily.\n•\nThankful for @momentsofapilgrim for… https://t.co/PPrgYvrrzn https://t.co/jXtiWDvT6y"
+	},
+	{
 		"created_at": "Sun Aug 18 11:39:26 +0000 2019",
 		"id": 1163052781894283300,
 		"id_str": "1163052781894283264",
