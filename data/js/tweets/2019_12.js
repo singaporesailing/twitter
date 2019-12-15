@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 09:33:07 +0000 2019",
+		"id": 1205782762743046100,
+		"id_str": "1205782762743046144",
+		"full_text": "[Repost] Laser standard sailor Ryan cruisin’ on waves down in Malta, follow him @ryanlosailing for some exciting sailing! \n#teamsg #singaporesailing #sailforSG #malta #laser #laserstandard https://t.co/WmiHdEKkFN https://t.co/Cow0U0sScJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teamsg",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "singaporesailing",
+					"indices": [
+						131,
+						148
+					]
+				},
+				{
+					"text": "sailforSG",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "malta",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "laser",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "laserstandard",
+					"indices": [
+						174,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WmiHdEKkFN",
+					"expanded_url": "https://www.instagram.com/p/B6DDVwNgksu/",
+					"display_url": "instagram.com/p/B6DDVwNgksu/",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205782761585463300,
+					"id_str": "1205782761585463296",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvNCHyXUAAtXBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvNCHyXUAAtXBU.jpg",
+					"url": "https://t.co/Cow0U0sScJ",
+					"display_url": "pic.twitter.com/Cow0U0sScJ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1205782762743046144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 456,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205782761585463300,
+					"id_str": "1205782761585463296",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvNCHyXUAAtXBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvNCHyXUAAtXBU.jpg",
+					"url": "https://t.co/Cow0U0sScJ",
+					"display_url": "pic.twitter.com/Cow0U0sScJ",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1205782762743046144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 456,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7227,
+			"friends_count": 5189,
+			"listed_count": 43,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Repost] Laser standard sailor Ryan cruisin’ on waves down in Malta, follow him @ryanlosailing for some exciting sailing! \n#teamsg #singaporesailing #sailforSG #malta #laser #laserstandard https://t.co/WmiHdEKkFN https://t.co/Cow0U0sScJ"
+	},
+	{
 		"created_at": "Mon Dec 09 13:47:28 +0000 2019",
 		"id": 1204034833573388300,
 		"id_str": "1204034833573388288",
