@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 23 14:03:31 +0000 2019",
+		"id": 1209112303364386800,
+		"id_str": "1209112303364386816",
+		"full_text": "Sometimes you have to just cut the excuses and get to the dirty work to achieve what you’re aiming for.⠀\n⠀\n#inspiremyinstagram #meetthemoment#seekthepositive https://t.co/6yDc1TkS5M https://t.co/p34GBEmRpi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "inspiremyinstagram",
+					"indices": [
+						107,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6yDc1TkS5M",
+					"expanded_url": "https://www.instagram.com/p/B6anxKqAXqn/",
+					"display_url": "instagram.com/p/B6anxKqAXqn/",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1209112302127124500,
+					"id_str": "1209112302127124481",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EMehO43XkAEnUu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMehO43XkAEnUu0.jpg",
+					"url": "https://t.co/p34GBEmRpi",
+					"display_url": "pic.twitter.com/p34GBEmRpi",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1209112303364386816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 632,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 632,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209112302127124500,
+					"id_str": "1209112302127124481",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EMehO43XkAEnUu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMehO43XkAEnUu0.jpg",
+					"url": "https://t.co/p34GBEmRpi",
+					"display_url": "pic.twitter.com/p34GBEmRpi",
+					"expanded_url": "https://twitter.com/SingaporeSail/status/1209112303364386816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 632,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 632,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906430548641439700,
+			"id_str": "906430548641439744",
+			"name": "SingaporeSailing 🇸🇬 ⛵️",
+			"screen_name": "SingaporeSail",
+			"location": "Singapore",
+			"description": "Official Twitter account of Singapore Sailing Federation & Singapore Sailing Team. Join our Olympic voyage to bring S'pore glory from sea #SailforSG",
+			"url": "https://t.co/x1KTJWBNjK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x1KTJWBNjK",
+							"expanded_url": "http://sailing.org.sg",
+							"display_url": "sailing.org.sg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7220,
+			"friends_count": 5182,
+			"listed_count": 43,
+			"created_at": "Sat Sep 09 08:14:18 +0000 2017",
+			"favourites_count": 6349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906431693329883137/sqULnWb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906430548641439744/1505034054",
+			"profile_link_color": "D10000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes you have to just cut the excuses and get to the dirty work to achieve what you’re aiming for.⠀\n⠀\n#inspiremyinstagram #meetthemoment#seekthepositive https://t.co/6yDc1TkS5M https://t.co/p34GBEmRpi"
+	},
+	{
 		"created_at": "Sat Dec 14 09:33:07 +0000 2019",
 		"id": 1205782762743046100,
 		"id_str": "1205782762743046144",
